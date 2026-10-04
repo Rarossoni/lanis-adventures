@@ -271,6 +271,11 @@ hash = "8fed76ae3ed08f943570023892eb4680990198ca37ec8b24232b6237d8f7be29"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "18c304a838605e5142389c641db248671131ec25d73d08e3835ea9f6f634632f"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "dcbb8301c31e095d0ead0aa21e2c139419cd8d36a46e3607adab2f8c5fce67bc"
 metafile = true
