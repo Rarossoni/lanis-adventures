@@ -1,0 +1,13 @@
+name = "Absolute Order: Custom Chest Auto-Sorter"
+filename = "AbsoluteOrder-2.0.0-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tGfovP6L/versions/DV9vEDtC/AbsoluteOrder-2.0.0-forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "0879563a5d67c1ae335f38ac79ae301bc7d6197c3847db81406da7b68378fca0ef993561e29cc91a214ba0276d6b7ae7b8584c633c620195e493cc74bf651016"
+
+[update]
+[update.modrinth]
+mod-id = "tGfovP6L"
+version = "DV9vEDtC"

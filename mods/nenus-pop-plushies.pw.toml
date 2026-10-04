@@ -1,0 +1,13 @@
+name = "Nenu's Pop Plushies"
+filename = "nenus_pop_plushies-2.10.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b870d368453754658ca1e14296869c73365efa2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8964427
+project-id = 1426170
