@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/absolute-order.pw.toml"
-hash = "173d19ec0bce23b16312ad4a48ec3421afb45c8c58cc1e9a9352527a3ff5f0c2"
+hash = "81be85979d057888e8573adc41f2e5212cc732c3c89c46bf093924a6321516af"
 metafile = true
 
 [[files]]
@@ -357,10 +357,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
-hash = "d558bea954d7096fd9e4b1ed4e0f6013f0256f846724a90be0caa9437da42e24"
+hash = "35a9ac12407b86a17d0271404a4e4f0cc2ad7e47bef74ce21b3b7c22f2888750"
 metafile = true
 
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "ae2879b2b43ab1f8838935f88a8dd653cd92b2bdc33049a6e4ff603d0c52e739"
+hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
 metafile = true

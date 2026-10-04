@@ -1,6 +1,6 @@
 name = "Absolute Order: Custom Chest Auto-Sorter"
 filename = "AbsoluteOrder-2.0.0-forge-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tGfovP6L/versions/DV9vEDtC/AbsoluteOrder-2.0.0-forge-mc1.20.1.jar"

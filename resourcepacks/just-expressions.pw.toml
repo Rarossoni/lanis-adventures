@@ -1,6 +1,6 @@
 name = "Just Expressions"
 filename = "JustExpressions_v1.2.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vPaHlT2U/versions/ZNXAMRW4/JustExpressions_v1.2.1.zip"
