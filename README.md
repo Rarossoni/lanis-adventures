@@ -14,7 +14,8 @@ Modpack de aventura feito por **Lani**.
    ```
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Rarossoni/lanis-adventures/main/pack.toml
    ```
-4. Abra o jogo. Os mods são baixados e atualizados sozinhos a cada vez que o jogo abre.
+4. Em *Editar → Configurações → Java*, coloque **Memória máxima: 8192 MB** (com menos que isso o jogo fecha sozinho ao abrir).
+5. Abra o jogo. Os mods são baixados e atualizados sozinhos a cada vez que o jogo abre.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
