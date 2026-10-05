@@ -1,5 +1,6 @@
 name = "Fresh Animations: Player Extension + Just Expressions"
-filename = "FA+Player_Expressions-v1.2.zip"
+filename = "fa-player-extension+just-expressions.zip"
+# arquivo = "FA+Player_Expressions-v1.2.zip"
 side = "client"
 
 [download]

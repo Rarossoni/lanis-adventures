@@ -1,5 +1,6 @@
 name = "Fresh Animations"
-filename = "FreshAnimations_v1.10.4.zip"
+filename = "fresh-animations.zip"
+# arquivo = "FreshAnimations_v1.10.4.zip"
 side = "client"
 
 [download]

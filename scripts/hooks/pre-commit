@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
-# Atualiza o index do packwiz e o README antes de cada commit.
+# Antes de cada commit: fixa nomes/ordem dos resource packs, atualiza o index do packwiz e o README.
+set -e
 cd "$(git rev-parse --show-toplevel)"
 
 if command -v packwiz >/dev/null 2>&1; then PW=packwiz; else PW="$HOME/bin/packwiz.exe"; fi
+
+bash scripts/resourcepacks.sh
+git add resourcepacks config
 "$PW" refresh >/dev/null && git add index.toml pack.toml
 
 bash scripts/gen-readme.sh --staged && git add README.md

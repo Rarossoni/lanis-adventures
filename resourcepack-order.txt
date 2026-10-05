@@ -1,0 +1,13 @@
+# Ordem dos resource packs, igual a tela do jogo: o de CIMA tem prioridade.
+# Use o nome do arquivo .pw.toml (sem extensao). Packs que nao estiverem aqui
+# entram no topo. Linhas com # sao ignoradas.
+icon-fresh
+fa-player-extension+just-expressions
+fa-player-extension
+fresh-animations-objects
+fresh-animations-details
+fresh-animations-extensions
+fresh-animations
+cubic-sun-moon
+create-sophisticated-backpacks
+shrimps-immersive-interfaces

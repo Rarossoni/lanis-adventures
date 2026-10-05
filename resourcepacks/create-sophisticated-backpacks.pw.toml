@@ -1,5 +1,6 @@
 name = "Create Style Sophisticated Backpacks"
-filename = "CreateSophBackpacks.zip"
+filename = "create-sophisticated-backpacks.zip"
+# arquivo = "CreateSophBackpacks.zip"
 side = "client"
 
 [download]

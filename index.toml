@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "f32ab2805a61eebf64180d76403c1313e2c7f2786af49549716b708c58448786"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f9a60f1fa7696847424dcfbdc9c9f6f113eb16d31664e8327c6919e8d929e719"
 metafile = true
@@ -76,6 +80,11 @@ hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
@@ -116,8 +125,18 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "28538b27a8e14435af060e940b310d4247e90346e1716f475e9653864bbbb51d"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -163,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
 metafile = true
 
 [[files]]
@@ -266,8 +290,8 @@ hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
-file = "mods/hearthstone-mod.pw.toml"
-hash = "bdcde667e4b055a69ec97423a3061ba5f6b6595a3fe5180fa364187b388303e8"
+file = "mods/heartstone.pw.toml"
+hash = "a9deb10c5d5431b59c78ab1b04827f761e8fac6cb925800155a560c343180186"
 metafile = true
 
 [[files]]
@@ -516,6 +540,11 @@ hash = "671690772192603e53597b1babb855d0bfd52e400e8ea703290a4bcf2d72396c"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "fcb95ac9e305c0ac7d78f4fb66901da4fd73cd1f80f48ebeb08d0aea466da3ef"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -657,52 +686,52 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+hash = "be818ac8586fe2259823bd39c71bb899aed51cc96e3ea07e1bf0e1c818a59ed6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+hash = "c5dc44a0777b62765c850ca6a7bedd92b6ff2cda473133fc8856ff37677ded0d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension+just-expressions.pw.toml"
-hash = "08b5cd4c0067b99926e1f07ddd83dc587dadddcb1e8414b2827b967d51171743"
+hash = "fbec5ba283350b44c9798d2b4eda56836717efe4d7e958218c44e5e62e9fa783"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+hash = "69379695887489116f00f4403aacf4309fc493da63113fe783e5bce35a93f8fa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "0fbf13d350fe4d7645ca6e01da4f860c18d762666ba3c4f83ba9a91312724853"
+hash = "c73f584a24d7b4a93b4471f065b403208b05ca5fe1602482454e9bb5711dfad5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "a609bfde1f92ebb5c5462a9a7aa0464888b5bdb271392c81787ff3e27239ce4a"
+hash = "789ceb8c118b1fadb26f852d06ad009c4d78e220318abdfc846cb77fc60ab0fc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "d46d25e5eb08ca03367924784ed88301f53381aa1c581c5510de8deb25f19e0a"
+hash = "c02f023ae358fd5e96f2154debded1d13ebec4e3aa82ca49f270cb9a008017ee"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+hash = "57cb870fed2e736b445614f3d9f25b059eeab7c766418f20f479b50715114d06"
 metafile = true
 
 [[files]]
 file = "resourcepacks/icon-fresh.pw.toml"
-hash = "2880eb30033dde6220d3faf29760ca5fa4c80ee4b4aa6bf05f6fa17931cc6bb0"
+hash = "7e161efebfed42370d1947af262ee0fe27c04a0ca66050f5aed95337ca2549b0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
+hash = "f4193dae657d93a2b1c0ac030b904260b864966e3190faeb69498dae2abb8822"
 metafile = true
 
 [[files]]

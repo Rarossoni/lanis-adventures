@@ -1,5 +1,6 @@
 name = "Cubic Sun & Moon"
-filename = "cubic-sun-moon-v1.8.5.zip"
+filename = "cubic-sun-moon.zip"
+# arquivo = "cubic-sun-moon-v1.8.5.zip"
 side = "client"
 
 [download]

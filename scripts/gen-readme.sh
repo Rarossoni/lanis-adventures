@@ -43,6 +43,7 @@ table() { # table <pasta>
     FNR == 1 { prev = FILENAME; name = file = side = mid = pid = "" }
     /^name = /       && name == "" { name = val($0) }
     /^filename = /   { file = val($0) }
+    /^# arquivo = /  { file = val($0) }
     /^side = /       { side = val($0) }
     /^mod-id = /     { mid = val($0) }
     /^project-id = / { pid = val($0) }
@@ -69,6 +70,7 @@ history() {
   } | awk "$AWK_LIB"'
     function flush_file(   l) {
       if (path !~ /\.pw\.toml$/) { path = ""; return }
+      if (oa != "") of = oa; if (na != "") nf = na  # nome original de resource pack com nome fixo
       if (st == "A")      l = "- ➕ **Adicionado** " nn " `" ver(nf) "`"
       else if (st == "D") l = "- ➖ **Removido** " on
       else if (of != nf && of != "" && nf != "") l = "- 🔄 **Atualizado** " nn " `" ver(of) "` → `" ver(nf) "`"
@@ -87,10 +89,11 @@ history() {
       n = 0
     }
     /^@@COMMIT / { flush_commit(); title = substr($0, 10); next }
-    /^diff --git / { flush_file(); path = $NF; sub(/^b\//, "", path); st = "M"; on = nn = of = nf = ""; next }
+    /^diff --git / { flush_file(); path = $NF; sub(/^b\//, "", path); st = "M"; on = nn = of = nf = oa = na = ""; next }
     /^new file mode/     { st = "A"; next }
     /^deleted file mode/ { st = "D"; next }
     /^(\+\+\+|---) / { next }
+    /^[ +-]# arquivo = / { c = substr($0, 1, 1); v = val($0); if (c != "+") oa = v; if (c != "-") na = v; next }
     /^[ +-](name|filename) = / {
       c = substr($0, 1, 1); k = substr($0, 2); v = val(k); sub(/ =.*/, "", k)
       if (k == "name")     { if (c != "+" && on == "") on = v; if (c != "-" && nn == "") nn = v }

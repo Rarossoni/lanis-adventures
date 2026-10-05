@@ -1,5 +1,6 @@
 name = "Fresh Animations: Player Extension"
-filename = "FA+Player-v1.1.zip"
+filename = "fa-player-extension.zip"
+# arquivo = "FA+Player-v1.1.zip"
 side = "client"
 
 [download]

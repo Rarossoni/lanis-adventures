@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 131 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 136 |
 
 ## Como jogar
 
@@ -18,7 +18,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (131)
+## Mods (136)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@ Modpack de aventura feito por **Lani**.
 | [Balm](https://modrinth.com/project/MBAkmtvl) | `7.3.44` | Ambos | 2026-10-04 | Lani |
 | [Better Advancements](https://modrinth.com/project/Q2OqKxDG) | `0.6.0.73` | Cliente | 2026-10-04 | Lani |
 | [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/ZvaHbwoZ) | `1.1` | Cliente | 2026-10-05 | Lani |
+| [Caelus API](https://modrinth.com/project/40FYwb4z) | `3.2.0` | Ambos | 2026-10-05 | Lani |
 | [Carry On](https://modrinth.com/project/joEfVgkn) | `2.1.2.7` | Ambos | 2026-10-04 | Lani |
 | [Chat Animation [Smooth Chat]](https://modrinth.com/project/DnNYdJsx) | `1.3.4` | Cliente | 2026-10-05 | Lani |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ) | `0.15.7` | Cliente | 2026-10-05 | Lani |
@@ -45,7 +46,9 @@ Modpack de aventura feito por **Lani**.
 | [Companions!](https://modrinth.com/project/ArBFNu9T) | `1.3.6` | Ambos | 2026-10-05 | Lani |
 | [Concurrent Chunk Management Engine for Forge](https://modrinth.com/project/yE4MbG65) | `0.2.0+alpha.12` | Ambos | 2026-10-04 | Lani |
 | [Controlling](https://modrinth.com/project/xv94TkTM) | `12.0.2` | Cliente | 2026-10-04 | Lani |
+| [Corpse x Cosmetic Armor Reworked Compat](https://modrinth.com/project/VrbUxhCI) | `4.0.1` | Ambos | 2026-10-05 | Lani |
 | [Corpse](https://modrinth.com/project/WrpuIfhw) | `1.0.23` | Ambos | 2026-10-04 | Lani |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) | `—` | Ambos | 2026-10-05 | Lani |
 | [Create Deco](https://modrinth.com/project/sMvUb4Rb) | `2.0.3` | Ambos | 2026-10-04 | Lani |
 | [Create](https://modrinth.com/project/LNytGWDc) | `6.0.8` | Ambos | 2026-10-04 | Lani |
 | [Cristel Lib](https://modrinth.com/project/cl223EMc) | `1.1.6` | Ambos | 2026-10-04 | Lani |
@@ -55,6 +58,7 @@ Modpack de aventura feito por **Lani**.
 | [Dungeons and Taverns](https://modrinth.com/project/tpehi7ww) | `3.0.3` | Ambos | 2026-10-04 | Lani |
 | [Easy Anvils](https://modrinth.com/project/OZBR5JT5) | `8.0.2` | Ambos | 2026-10-04 | Lani |
 | [Easy Magic](https://modrinth.com/project/9hx3AbJM) | `8.0.1` | Ambos | 2026-10-04 | Lani |
+| [Elytra Slot](https://modrinth.com/project/mSQF1NpT) | `6.4.4` | Ambos | 2026-10-05 | Lani |
 | [Embeddium](https://modrinth.com/project/sk9rgfiA) | `0.3.31` | Cliente | 2026-10-04 | Lani |
 | [EMF Compat: Core](https://modrinth.com/project/hbGct5uU) | `2.0.0` | Cliente | 2026-10-05 | Lani |
 | [EMF Compat: Not Enough Animations](https://modrinth.com/project/IGCrWfL7) | `1.2.0` | Cliente | 2026-10-05 | Lani |
@@ -73,7 +77,7 @@ Modpack de aventura feito por **Lani**.
 | [GeckoLib](https://www.curseforge.com/projects/388172) | `4.8.4` | Ambos | 2026-10-05 | Lani |
 | [Ghosts](https://www.curseforge.com/projects/602665) | `1.3.3` | Ambos | 2026-10-05 | Lani |
 | [Handcrafted](https://modrinth.com/project/pJmCFF0p) | `3.0.6` | Ambos | 2026-10-04 | Lani |
-| [Hearthstone Mod](https://www.curseforge.com/projects/243491) | `2.0.0` | Ambos | 2026-10-05 | Lani |
+| [Heartstone](https://www.curseforge.com/projects/573152) | `1.3.0` | Ambos | 2026-10-05 | Lani |
 | [Ice and Fire](https://modrinth.com/project/LVnvHVBp) | `2.1.13` | Ambos | 2026-10-04 | Lani |
 | [Iceberg](https://modrinth.com/project/5faXoLqX) | `1.1.25` | Ambos | 2026-10-05 | Lani |
 | [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci) | `1.2.7` | Cliente | 2026-10-05 | Lani |
@@ -109,6 +113,7 @@ Modpack de aventura feito por **Lani**.
 | [Puzzles Lib](https://modrinth.com/project/QAGBst4M) | `8.1.33` | Ambos | 2026-10-04 | Lani |
 | [Relics](https://modrinth.com/project/OCJRPujW) | `0.8.0.13` | Ambos | 2026-10-05 | Lani |
 | [Reliquified Artifacts](https://modrinth.com/project/GnU07giL) | `0.5` | Ambos | 2026-10-05 | Lani |
+| [Resource Pack Overrides](https://modrinth.com/project/YsFycamt) | `8.0.3` | Cliente | 2026-10-05 | Lani |
 | [Resourceful Lib](https://modrinth.com/project/G1hIVOrD) | `2.1.29` | Ambos | 2026-10-04 | Lani |
 | [Ribbits](https://modrinth.com/project/8YcE8y4T) | `3.0.5` | Ambos | 2026-10-05 | Lani |
 | [Searchables](https://modrinth.com/project/fuuu3xnx) | `1.0.3` | Cliente | 2026-10-04 | Lani |
@@ -169,7 +174,7 @@ Ative em *Opções → Pacotes de recursos*.
 | [Fresh Animations: Player Extension](https://modrinth.com/project/TAIMVZCL) | `1.1` | Cliente | 2026-10-05 | Lani |
 | [Fresh Animations](https://modrinth.com/project/50dA9Sha) | `1.10.4` | Cliente | 2026-10-05 | Lani |
 | [Icon Fresh](https://www.curseforge.com/projects/1159273) | `1.3` | Cliente | 2026-10-05 | Lani |
-| [Immersive Interfaces](https://modrinth.com/project/3sV1gvyJ) | `—` | Cliente | 2026-10-04 | Lani |
+| [Immersive Interfaces](https://modrinth.com/project/3sV1gvyJ) | `—` | Cliente | 2026-10-05 | Lani |
 
 ## Shaders (5)
 
@@ -184,6 +189,15 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.3` | Cliente | 2026-10-05 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-05 — Lani
+- ➕ **Adicionado** Caelus API `3.2.0`
+- ➕ **Adicionado** Corpse x Cosmetic Armor Reworked Compat `4.0.1`
+- ➕ **Adicionado** Cosmetic Armor Reworked `—`
+- ➕ **Adicionado** Elytra Slot `6.4.4`
+- ➕ **Adicionado** Heartstone `1.3.0`
+- ➕ **Adicionado** Resource Pack Overrides `8.0.3`
+- ➖ **Removido** Hearthstone Mod
 
 ### 2026-10-05 — Lani
 - ➕ **Adicionado** 3D Skin Layers `1.11.3`

@@ -1,5 +1,6 @@
 name = "Immersive Interfaces"
-filename = "§6Immersive§8_§6Interfaces§8.zip"
+filename = "shrimps-immersive-interfaces.zip"
+# arquivo = "§6Immersive§8_§6Interfaces§8.zip"
 side = "client"
 
 [download]
