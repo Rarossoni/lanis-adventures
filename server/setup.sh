@@ -47,7 +47,7 @@ else
   if command -v netfilter-persistent >/dev/null; then sudo netfilter-persistent save; fi
 fi
 
-echo ">> Criando servico systemd (liga junto com a VM)..."
+echo ">> Criando servico systemd (NAO liga sozinho com a VM)..."
 sudo tee /etc/systemd/system/lanis.service >/dev/null <<EOF
 [Unit]
 Description=Lanis Adventures (Minecraft)
@@ -67,10 +67,12 @@ TimeoutStopSec=120
 WantedBy=multi-user.target
 EOF
 sudo systemctl daemon-reload
-sudo systemctl enable lanis
+# Nao habilitamos o autostart para nao disputar a porta com outro servidor.
+# Para o Lanis ligar junto com a VM: sudo systemctl enable lanis
 
 echo
-echo "Pronto! Comandos uteis:"
+echo "Pronto! O servidor NAO foi ligado e NAO liga sozinho com a VM."
+echo "Comandos uteis:"
 echo "  sudo systemctl start lanis     # ligar"
 echo "  sudo systemctl stop lanis      # desligar (salva o mundo)"
 echo "  sudo systemctl restart lanis   # reiniciar (pega a versao nova do pack)"
