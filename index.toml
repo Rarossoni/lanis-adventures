@@ -335,11 +335,6 @@ hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
 metafile = true

@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 160 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 159 |
 
 ## Como jogar
 
@@ -18,7 +18,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (160)
+## Mods (159)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -87,7 +87,6 @@ Modpack de aventura feito por **Lani**.
 | [Ice and Fire](https://modrinth.com/project/LVnvHVBp) | `2.1.13` | Ambos | 2026-10-04 | Lani |
 | [Iceberg](https://modrinth.com/project/5faXoLqX) | `1.1.25` | Ambos | 2026-10-05 | Lani |
 | [Illager Invasion](https://modrinth.com/project/jSV9w0J5) | `8.0.7` | Ambos | 2026-10-05 | Lani |
-| [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci) | `1.2.7` | Cliente | 2026-10-05 | Lani |
 | [Immersive UI](https://modrinth.com/project/9wv7LuMc) | `0.3.0` | Cliente | 2026-10-05 | Lani |
 | [Incendium Legacy](https://modrinth.com/project/ZVzW5oNS) | `5.3.5` | Ambos | 2026-10-05 | Lani |
 | [Iris & Oculus Flywheel Compat](https://modrinth.com/project/ndHYMY2K) | `2.0.3` | Cliente | 2026-10-05 | Lani |
@@ -213,6 +212,9 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.3` | Cliente | 2026-10-05 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-05 — Lani
+- 🔧 **Fix:** removido ImmediatelyFast
 
 ### 2026-10-05 — Lani
 - 🔧 **Fix:** adicionado Fzzy Config `0.7.7`
