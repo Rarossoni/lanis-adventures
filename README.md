@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 158 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 160 |
 
 ## Como jogar
 
@@ -18,7 +18,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (158)
+## Mods (160)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@ Modpack de aventura feito por **Lani**.
 | [FerriteCore](https://modrinth.com/project/uXXizFIs) | `6.0.1` | Ambos | 2026-10-04 | Lani |
 | [Fragmentum](https://modrinth.com/project/49C5QgTK) | `5.1.1` | Ambos | 2026-10-04 | Lani |
 | [Friends&Foes (Forge/NeoForge)](https://modrinth.com/project/BOCJKD49) | `3.0.9` | Ambos | 2026-10-05 | Lani |
+| [Fzzy Config](https://modrinth.com/project/hYykXjDp) | `0.7.7` | Ambos | 2026-10-05 | Lani |
 | [Geckolib](https://modrinth.com/project/8BmcQJ2H) | `4.8.4` | Ambos | 2026-10-05 | Lani |
 | [Ghosts](https://www.curseforge.com/projects/602665) | `1.3.3` | Ambos | 2026-10-05 | Lani |
 | [Handcrafted](https://modrinth.com/project/pJmCFF0p) | `3.0.6` | Ambos | 2026-10-04 | Lani |
@@ -90,13 +91,13 @@ Modpack de aventura feito por **Lani**.
 | [Immersive UI](https://modrinth.com/project/9wv7LuMc) | `0.3.0` | Cliente | 2026-10-05 | Lani |
 | [Incendium Legacy](https://modrinth.com/project/ZVzW5oNS) | `5.3.5` | Ambos | 2026-10-05 | Lani |
 | [Iris & Oculus Flywheel Compat](https://modrinth.com/project/ndHYMY2K) | `2.0.3` | Cliente | 2026-10-05 | Lani |
-| [Iris/Oculus & GeckoLib Compat](https://modrinth.com/project/TbriQCWD) | `1.0.1` | Cliente | 2026-10-05 | Lani |
 | [Item Highlighter](https://modrinth.com/project/cVNW5lr6) | `1.1.9` | Cliente | 2026-10-05 | Lani |
 | [Jade 🔍](https://modrinth.com/project/nvQzSEkH) | `11.13.3` | Ambos | 2026-10-04 | Lani |
 | [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) | `15.62.0.219` | Ambos | 2026-10-04 | Lani |
 | [Just Zoom](https://modrinth.com/project/iAiqcykM) | `3.0.1` | Cliente | 2026-10-05 | Lani |
 | [Knight Lib](https://modrinth.com/project/hAnl9nbm) | `2.0.4` | Ambos | 2026-10-05 | Lani |
 | [Konkrete](https://modrinth.com/project/J81TRJWm) | `1.8.0` | Ambos | 2026-10-05 | Lani |
+| [Kotlin for Forge](https://modrinth.com/project/ordsPcFz) | `4.12.0` | Ambos | 2026-10-05 | Lani |
 | [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) | `8.0.0` | Ambos | 2026-10-04 | Lani |
 | [Lionfish-API](https://modrinth.com/project/FoVacERa) | `3.0` | Ambos | 2026-10-04 | Lani |
 | [Lootr](https://modrinth.com/project/EltpO5cN) | `0.7.35.94` | Ambos | 2026-10-05 | Lani |
@@ -117,6 +118,7 @@ Modpack de aventura feito por **Lani**.
 | [Oculus](https://modrinth.com/project/GchcoXML) | `1.8.0` | Cliente | 2026-10-05 | Lani |
 | [Overflowing Bars](https://modrinth.com/project/XD7XOrAF) | `8.0.1` | Cliente | 2026-10-04 | Lani |
 | [Paragliders](https://modrinth.com/project/esqWA0aQ) | `20.1.3` | Ambos | 2026-10-05 | Lani |
+| [Patchouli](https://modrinth.com/project/nU0bVIaL) | `—` | Ambos | 2026-10-05 | Lani |
 | [Pick Up Notifier](https://modrinth.com/project/ZX66K16c) | `8.0.0` | Ambos | 2026-10-04 | Lani |
 | [Ping Wheel](https://modrinth.com/project/QQXAdCzh) | `1.12.1` | Ambos | 2026-10-04 | Lani |
 | [Placebo](https://modrinth.com/project/tCkE8p2N) | `8.6.3` | Ambos | 2026-10-05 | Lani |
@@ -211,6 +213,12 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.3` | Cliente | 2026-10-05 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-05 — Lani
+- 🔧 **Fix:** adicionado Fzzy Config `0.7.7`
+- 🔧 **Fix:** adicionado Kotlin for Forge `4.12.0`
+- 🔧 **Fix:** adicionado Patchouli `—`
+- 🔧 **Fix:** removido Iris/Oculus & GeckoLib Compat
 
 ### 2026-10-05 — Lani
 - ➕ **Adicionado** AttributeFix `21.0.5`

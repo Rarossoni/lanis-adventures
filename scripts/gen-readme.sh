@@ -66,14 +66,16 @@ history() {
       echo "@@COMMIT $TODAY — $ME"
       git diff --cached -p --no-renames --unified=200 -- "${DIRS[@]}"
     fi
-    git log -p --no-merges --no-renames --unified=200 --format='@@COMMIT %ad — %an' --date=short -- "${DIRS[@]}"
+    git log -p --no-merges --no-renames --unified=200 --format='@@COMMIT %ad — %an	%s' --date=short -- "${DIRS[@]}"
   } | awk "$AWK_LIB"'
-    function flush_file(   l) {
+    # Commits cuja mensagem comeca com "fix" (correcao de conflito) aparecem como Fix.
+    function flush_file(   l, p) {
       if (path !~ /\.pw\.toml$/) { path = ""; return }
       if (oa != "") of = oa; if (na != "") nf = na  # nome original de resource pack com nome fixo
-      if (st == "A")      l = "- ➕ **Adicionado** " nn " `" ver(nf) "`"
-      else if (st == "D") l = "- ➖ **Removido** " on
-      else if (of != nf && of != "" && nf != "") l = "- 🔄 **Atualizado** " nn " `" ver(of) "` → `" ver(nf) "`"
+      p = fix ? "- 🔧 **Fix:** " : ""
+      if (st == "A")      l = (fix ? p "adicionado " : "- ➕ **Adicionado** ") nn " `" ver(nf) "`"
+      else if (st == "D") l = (fix ? p "removido " : "- ➖ **Removido** ") on
+      else if (of != nf && of != "" && nf != "") l = (fix ? p "atualizado " : "- 🔄 **Atualizado** ") nn " `" ver(of) "` → `" ver(nf) "`"
       else l = ""
       if (l != "") lines[++n] = l
       path = ""
@@ -88,7 +90,12 @@ history() {
       }
       n = 0
     }
-    /^@@COMMIT / { flush_commit(); title = substr($0, 10); next }
+    /^@@COMMIT / {
+      flush_commit(); title = substr($0, 10); subj = ""
+      if ((i = index(title, "\t")) > 0) { subj = substr(title, i + 1); title = substr(title, 1, i - 1) }
+      fix = (tolower(subj) ~ /^fix/)
+      next
+    }
     /^diff --git / { flush_file(); path = $NF; sub(/^b\//, "", path); st = "M"; on = nn = of = nf = oa = na = ""; next }
     /^new file mode/     { st = "A"; next }
     /^deleted file mode/ { st = "D"; next }
