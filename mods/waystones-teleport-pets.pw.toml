@@ -1,0 +1,13 @@
+name = "Waystones Teleport Pets"
+filename = "WaystonesTeleportPets-1.20-1.20.1--1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VaCl9OtG/versions/Yh4b40rs/WaystonesTeleportPets-1.20-1.20.1--1.2.jar"
+hash-format = "sha512"
+hash = "c4e13812dbd77a07f585b056f830412f6ebb27e47b567b7c82ac3a5e9a9c20e999972cc52638a18a4f7f0670ad16dfa5a770f86e3c13f888ca65cbbd2f8113c4"
+
+[update]
+[update.modrinth]
+mod-id = "VaCl9OtG"
+version = "Yh4b40rs"

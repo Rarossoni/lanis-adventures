@@ -39,11 +39,12 @@ chmod +x start.sh run.sh
 echo "eula=true" > eula.txt
 echo "-Xms${MEM} -Xmx${MEM}" > user_jvm_args.txt
 
-echo ">> Liberando a porta 25565 no firewall da VM..."
+echo ">> Liberando as portas 25565/tcp (jogo) e 24454/udp (Simple Voice Chat) no firewall da VM..."
 if command -v firewall-cmd >/dev/null; then
-  sudo firewall-cmd --permanent --add-port=25565/tcp && sudo firewall-cmd --reload
+  sudo firewall-cmd --permanent --add-port=25565/tcp --add-port=24454/udp && sudo firewall-cmd --reload
 else
   sudo iptables -I INPUT 6 -m state --state NEW -p tcp --dport 25565 -j ACCEPT
+  sudo iptables -I INPUT 6 -p udp --dport 24454 -j ACCEPT
   if command -v netfilter-persistent >/dev/null; then sudo netfilter-persistent save; fi
 fi
 
@@ -78,4 +79,4 @@ echo "  sudo systemctl stop lanis      # desligar (salva o mundo)"
 echo "  sudo systemctl restart lanis   # reiniciar (pega a versao nova do pack)"
 echo "  tmux attach -t lanis           # abrir o console (sair: Ctrl+B e depois D)"
 echo
-echo "Lembre de liberar a porta 25565/TCP na Security List da VCN no painel da Oracle."
+echo "Lembre de liberar as portas 25565/TCP e 24454/UDP na Security List da VCN no painel da Oracle."

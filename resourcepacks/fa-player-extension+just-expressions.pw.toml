@@ -1,0 +1,13 @@
+name = "Fresh Animations: Player Extension + Just Expressions"
+filename = "FA+Player_Expressions-v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6UMWeLX/versions/4nucOSHc/FA%2BPlayer_Expressions-v1.2.zip"
+hash-format = "sha512"
+hash = "3d168f6261738089ff670744b0133fbfd222843ed68e08f0085f06e1fe67e4bf6fa453b9251adc023bf815a281b592cfddf3145c67cda66ef3899912c059d27b"
+
+[update]
+[update.modrinth]
+mod-id = "E6UMWeLX"
+version = "4nucOSHc"

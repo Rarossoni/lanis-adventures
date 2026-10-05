@@ -1,0 +1,13 @@
+name = "Knight Lib"
+filename = "knightlib-forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/KusAMIou/knightlib-forge-1.20.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "424111f35abcef12b3bbab33b8a845cbe32b370c186d6e245ea8b879e4400d5229e7f239f766500f185fed8b257a412531a1f3f4bc13305b414a54d3ab31a6d0"
+
+[update]
+[update.modrinth]
+mod-id = "hAnl9nbm"
+version = "KusAMIou"

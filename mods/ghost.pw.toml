@@ -1,0 +1,13 @@
+name = "Ghosts"
+filename = "ghosts-forge-1.20.1-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51f6bb4d7fb43ffb15c9730d31afdfb31afc5a2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8306601
+project-id = 602665

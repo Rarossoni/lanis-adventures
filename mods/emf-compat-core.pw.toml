@@ -1,0 +1,13 @@
+name = "EMF Compat: Core"
+filename = "emf_compat_core_1.20.1_2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hbGct5uU/versions/Fs50sOQx/emf_compat_core_1.20.1_2.0.0.jar"
+hash-format = "sha512"
+hash = "f08f7ba286b22059e24f76c48d3d93a96694979182d45a3fbfc058f0942f81b5c67ea2d33b864f3ceb76a73d74ee2f1ed2152765abeef35b6742efdb19595c7b"
+
+[update]
+[update.modrinth]
+mod-id = "hbGct5uU"
+version = "Fs50sOQx"

@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
 RAW="https://raw.githubusercontent.com/Rarossoni/lanis-adventures/main"
-DIRS=(mods resourcepacks)
+DIRS=(mods resourcepacks shaderpacks)
 TODAY=$(date +%Y-%m-%d)
 ME=$(git config user.name || echo "?")
 STAGED=0; [ "${1:-}" = "--staged" ] && STAGED=1
@@ -105,6 +105,7 @@ pf() { sed -n "s/^$1 = \"\(.*\)\"$/\1/p" pack.toml | head -n1; }
 MC=$(pf minecraft); FORGE=$(pf forge); PVER=$(pf version); AUTHOR=$(pf author)
 NMODS=$(ls mods/*.pw.toml 2>/dev/null | wc -l | tr -d ' ')
 NRP=$(ls resourcepacks/*.pw.toml 2>/dev/null | wc -l | tr -d ' ')
+NSH=$(ls shaderpacks/*.pw.toml 2>/dev/null | wc -l | tr -d ' ')
 
 {
 cat <<EOF
@@ -135,6 +136,10 @@ table mods
 if [ "$NRP" -gt 0 ]; then
   printf '\n## Resource packs (%s)\n\nAtive em *Opções → Pacotes de recursos*.\n\n' "$NRP"
   table resourcepacks
+fi
+if [ "$NSH" -gt 0 ]; then
+  printf '\n## Shaders (%s)\n\nAtive em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **MakeUp - Ultra Fast**.\n\n' "$NSH"
+  table shaderpacks
 fi
 printf '\n## Histórico de mudanças\n\n'
 history

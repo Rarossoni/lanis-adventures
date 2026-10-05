@@ -1,0 +1,13 @@
+name = "[Let's Do] WilderNature"
+filename = "letsdo-wildernature-forge-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/MOt4yaRr/letsdo-wildernature-forge-1.0.6.jar"
+hash-format = "sha512"
+hash = "046baf2c02decb38ddd3158c2a73b5caa3f27f7c6a971be2d7265e3b797e3d4494e7d29a03bc851dce7aae43366505ebca37faed5e193896d4c9bbc607307339"
+
+[update]
+[update.modrinth]
+mod-id = "AAiRU4aQ"
+version = "MOt4yaRr"
