@@ -1,0 +1,13 @@
+name = "Ranged Weapon API"
+filename = "ranged_weapon_api-forge-2.3.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AqaIIO6D/versions/2Md2M2d5/ranged_weapon_api-forge-2.3.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3e68d88e50c83244234cc8e8e70a34be094147305aaee866ee26796c3154bba2452be7ba7f21a07847965719cd07929b91e00ea54a78237a932c07b748ad4ecb"
+
+[update]
+[update.modrinth]
+mod-id = "AqaIIO6D"
+version = "2Md2M2d5"
