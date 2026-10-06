@@ -1,0 +1,13 @@
+name = "Integrated API"
+filename = "integrated_api-forge-1.20.1-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/ylLcyfpZ/integrated_api-forge-1.20.1-1.8.2.jar"
+hash-format = "sha512"
+hash = "82c8a51b7d479414201418b9f9773458770e23d749aae8feb2df5205340436674cfe4f77ff2892c6385a8ac292e27208306a360817add2d78a74f665c2b58fa0"
+
+[update]
+[update.modrinth]
+mod-id = "V6fKbpBN"
+version = "ylLcyfpZ"

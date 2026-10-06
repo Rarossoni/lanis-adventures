@@ -1,0 +1,145 @@
+# Lanis Adventures: teclas padrao do pack (mod Default Options).
+# Formato: key_<nome>:<tecla>[:<SHIFT|CONTROL|ALT>]  -  "key.keyboard.unknown" = sem tecla.
+# Quem ja jogava so recebe a tecla nova se nunca tiver mudado aquela tecla.
+# Em Opcoes > Controles > "Redefinir" tudo volta para o que esta aqui.
+# Teclas que nao aparecem aqui ficam no padrao do proprio mod.
+
+# --- Vanilla: liberando teclas pouco usadas ---------------------------------
+key_key.socialInteractions:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+
+# --- Z: zoom -----------------------------------------------------------------
+key_justzoom.keybinds.keybind.zoom:key.keyboard.z
+key_justzoom.keybinds.keybind.zoom_in:key.mouse.9
+key_justzoom.keybinds.keybind.zoom_out:key.mouse.10
+key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
+
+# --- B: mochila ----------------------------------------------------------------
+key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
+key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+
+# --- M: mapa / U: waypoints ----------------------------------------------------
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+# Waypoint novo e configuracoes: pelos botoes dentro do mapa (M)
+key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+
+# --- R: rolamento / esquiva ----------------------------------------------------
+key_keybinds.combatroll.roll:key.keyboard.r
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+
+# --- Magia: V roda de feiticos / C lancar (Iron's) - G roda / K livro (Ars) ----
+key_key.irons_spellbooks.spell_wheel:key.keyboard.v
+key_key.irons_spellbooks.spellbook_cast:key.keyboard.c
+key_key.irons_spellbooks.spell_wheel_toggle:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_1:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_2:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_3:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_4:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_5:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_6:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_7:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_8:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_9:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_10:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_11:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_12:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_13:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_14:key.keyboard.unknown
+key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown
+key_key.ars_nouveau.selection_hud:key.keyboard.g
+key_key.ars_nouveau.open_book:key.keyboard.k
+key_key.ars_nouveau.familiar_toggle:key.keyboard.k:CONTROL
+key_key.ars_nouveau.next_slot:key.keyboard.unknown
+key_key.ars_nouveau.previous_slot:key.keyboard.unknown
+key_key.ars_nouveau.head_curio_hotkey:key.keyboard.unknown
+key_key.ars_nouveau.qc1:key.keyboard.unknown
+key_key.ars_nouveau.qc2:key.keyboard.unknown
+key_key.ars_nouveau.qc3:key.keyboard.unknown
+key_key.ars_nouveau.qc4:key.keyboard.unknown
+key_key.ars_nouveau.qc5:key.keyboard.unknown
+key_key.ars_nouveau.qc6:key.keyboard.unknown
+key_key.ars_nouveau.qc7:key.keyboard.unknown
+key_key.ars_nouveau.qc8:key.keyboard.unknown
+key_key.ars_nouveau.qc9:key.keyboard.unknown
+key_key.ars_nouveau.qc10:key.keyboard.unknown
+
+# --- X: habilidade do item NA MAO (so segura um por vez, entao podem dividir) ---
+key_key.cataclysm.ability:key.keyboard.x
+key_key.soulsweapons.keybind_ability:key.keyboard.x
+key_key.deeperdarker.transmit:key.keyboard.x
+# G tambem e "segunda habilidade do item na mao" para as armas do Soulslike
+key_key.soulsweapons.switch_weapon:key.keyboard.g
+key_key.soulsweapons.collect_summons_soul_reaper:key.keyboard.g
+key_key.soulsweapons.effect_shoot_moonlight:key.keyboard.g
+key_key.soulsweapons.return_freyr_sword:key.keyboard.unknown
+key_key.soulsweapons.return_thrown_weapon:key.keyboard.unknown
+key_key.soulsweapons.freyr_sword_stationary:key.keyboard.right.alt
+key_key.soulsweapons.parry:key.keyboard.unknown
+
+# --- Armaduras: H capacete/conjunto - Y peitoral - O botas ---------------------
+key_key.special_ability:key.keyboard.h
+key_key.cataclysm.helmet_ability:key.keyboard.h
+key_key.deep_aether.slider_eye_ability:key.keyboard.h
+key_key.cataclysm.chestplate_ability:key.keyboard.y
+key_key.cataclysm.boots_ability:key.keyboard.o
+# Botao lateral do mouse (voltar): impulso da Soul Elytra
+key_key.deeperdarker.boost:key.mouse.4
+
+# --- J: pets -------------------------------------------------------------------
+key_key.faunify.shoulder_mount:key.keyboard.j
+key_key.adorablehamsterpets.throw_hamster:key.keyboard.j
+
+# --- Dragao (Ice and Fire): so funcionam montado -------------------------------
+key_key.dragon_fireAttack:key.keyboard.r
+key_key.dragon_strike:key.keyboard.g
+key_key.dragon_down:key.keyboard.x
+key_key.dragon_change_view:key.keyboard.f7
+
+# --- I: acessorios do Aether ---------------------------------------------------
+key_key.aether.open_accessories.desc:key.keyboard.i
+key_key.aether.invisibility_toggle.desc:key.keyboard.unknown
+key_key.deep_aether.toggle_skyjade_transparency:key.keyboard.unknown
+
+# --- Voz: P menu - N mutar microfone - Caps Lock falar (se usar push-to-talk) --
+key_key.voice_chat:key.keyboard.p
+key_key.mute_microphone:key.keyboard.n
+key_key.push_to_talk:key.keyboard.caps.lock
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+
+# --- Do a Barrel Roll: liga sozinho na elytra; config pelo menu de mods ---------
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
+key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
+key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_forward:key.keyboard.unknown
+key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
+
+# --- Quark: quase tudo sem tecla (F12 = modo camera para prints) ---------------
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.change_hotbar:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.back:key.keyboard.unknown
+key_quark.keybind.narrator_readout:key.keyboard.unknown
+key_quark.keybind.narrator_full_readout:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.autorun:key.keyboard.unknown
+key_quark.keybind.variant_selector:key.keyboard.unknown
+
+# --- Outros sem tecla (cosmeticos de Patreon, atalhos duplicados) ---------------
+key_placebo.toggleTrails:key.keyboard.unknown
+key_placebo.toggleWings:key.keyboard.unknown
+key_key.jei.shareToChat:key.keyboard.unknown

@@ -1,0 +1,9 @@
+# Lanis Adventures: so as chaves que mudamos; o Forge completa o resto com os padroes ao abrir o jogo.
+
+[management]
+	# Conflita com o Absolute Order (organizacao de baus)
+	"Inventory Sorting" = false
+
+[oddities]
+	# Conflita com o Easy Magic (mesa de encantamento)
+	"Matrix Enchanting" = false
