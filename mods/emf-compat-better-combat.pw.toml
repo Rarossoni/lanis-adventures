@@ -1,0 +1,13 @@
+name = "EMF Compat: Better Combat"
+filename = "emf_compat_better_combat_forge_1.20.1_2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Smytm33T/versions/Jq3oFApt/emf_compat_better_combat_forge_1.20.1_2.1.1.jar"
+hash-format = "sha512"
+hash = "c0ad6274b3bcdd212129968e4d966673322a719fd50d395207610f38cf1324d8a55d6d560a816860f9900bacb01450e3e49fab4fc9ee08531cd950b783f19915"
+
+[update]
+[update.modrinth]
+mod-id = "Smytm33T"
+version = "Jq3oFApt"

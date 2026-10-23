@@ -1,0 +1,13 @@
+name = "EMF Compat: Exposure"
+filename = "emf_compat_exposure_1.20.1_1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mHqWFw6Z/versions/Sk0L0qfK/emf_compat_exposure_1.20.1_1.0.0.jar"
+hash-format = "sha512"
+hash = "3899117530abaf5cbafcdad5d6fc531496c259dd6d64b9480bb7d9663b0b757ac0d1e5c2308ad85be14e0eb5afddc38b2a53cf43316647a9b99e3e276eb9a77d"
+
+[update]
+[update.modrinth]
+mod-id = "mHqWFw6Z"
+version = "Sk0L0qfK"

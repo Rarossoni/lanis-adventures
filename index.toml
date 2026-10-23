@@ -138,6 +138,11 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
+file = "mods/cinematic-interactions.pw.toml"
+hash = "969a4f9f23025f26bcef12db8d9ac942cd3b2710be9a19da5bc4f808bb027db6"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
+metafile = true
+
+[[files]]
+file = "mods/create-emf-compat-skyhook.pw.toml"
+hash = "112967904631ad71edeca722f12ade7581c83e0ae8ade13739e97ed01c1b1c34"
 metafile = true
 
 [[files]]
@@ -253,13 +263,33 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-better-combat.pw.toml"
+hash = "e0421ffd2c757f6f8fbbdd170a9a8efe5a7e8fb79cfacef9ff5c52a87e98a29f"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-carry-on.pw.toml"
+hash = "768033aa6fa70b3a34c930e33d0b9564e0f5c38b3dfd1de6b4a4a4a1960b2f55"
+metafile = true
+
+[[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "4c00d2e489174a985f94caaa97c500e1ba78b51ccdd22f5b8f9bf9dcd90d5e60"
+hash = "ee1ed082d7eeeddd55246eb956c96bfb0d42876e474f387ce25e282a664b2907"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-exposure.pw.toml"
+hash = "e82b2b5c51a060df7b218a2167becbed6b64957e9ff4d7efeaa3763f8c2cd78a"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-supplementaries.pw.toml"
+hash = "16f2381e794df6a90f1925032ad6e2e23a39a29de9b7205c2054a31f067ce1c2"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "32f5b3b0207e4d564163085275ed4dab7f755d3601dd3d64e8efc61cd9894b96"
+hash = "6cde78abac12b491d29a16033b90b70e8304f4f5f9726d2c80ad776256054a6c"
 metafile = true
 
 [[files]]
@@ -269,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "51be25b31a4349ce8d74267272667e349dbd2ebb2e19346ed365b509ae45bc57"
+hash = "86c9854897808826c8b1dd478cf98e98144e36d865d2e50c6b66ac5d837368dd"
 metafile = true
 
 [[files]]
@@ -355,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/heartstone.pw.toml"
 hash = "a9deb10c5d5431b59c78ab1b04827f761e8fac6cb925800155a560c343180186"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
 metafile = true
 
 [[files]]
@@ -703,6 +738,11 @@ hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
 metafile = true
 
 [[files]]
+file = "mods/saints-dragons.pw.toml"
+hash = "ff6d3539b5176ec2b33c3a8f5898102d9784c3ead1a5cbd7f23d508d31f9d0af"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -758,6 +798,11 @@ hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
+file = "mods/studious-keybinds.pw.toml"
+hash = "a2edcdabe41cb4903b271bdce80bb8500958ae3264eab2db05fb7bd1ba34d623"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "d5668b4c6caa507eec30b0486f38fbd172dfae0ef988abe564b73aef083a32cd"
 metafile = true
@@ -795,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "938c6a67a9f223e12d294cdae5c69a3eaccf0308bed5227d32b92baa78ab767e"
 metafile = true
 
 [[files]]

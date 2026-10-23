@@ -1,0 +1,13 @@
+name = "Touch'n Motion"
+filename = "touch_n_motion_forge_1.20.1_1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b028aa5853a3aeb394542e295a32588fdc3a95f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9205892
+project-id = 1734204

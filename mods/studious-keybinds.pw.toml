@@ -1,0 +1,13 @@
+name = "Studious Keybinds"
+filename = "studious-keybinds-forge-1.20.1-1.0.10-beta.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "eaf3b7a9e6d133cdfa180ae66f25fcc092ad4d2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9107028
+project-id = 1731572

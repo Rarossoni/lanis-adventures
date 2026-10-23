@@ -1,0 +1,13 @@
+name = "EMF Compat: Carry On"
+filename = "emf_compat_carry_on_forge_1.20.1_2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPD5ZhBo/versions/LUn5xtxz/emf_compat_carry_on_forge_1.20.1_2.1.1.jar"
+hash-format = "sha512"
+hash = "2ea622331f293a854e4597ddb5c6accbe7f7218ac29c71b6b06f03d10ca1982afbb09eb2445a01d73aa8c0efd4818c093c1450c53e0882f0b52b534e20778e97"
+
+[update]
+[update.modrinth]
+mod-id = "BPD5ZhBo"
+version = "LUn5xtxz"

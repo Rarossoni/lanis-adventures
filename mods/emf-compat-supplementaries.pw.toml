@@ -1,0 +1,13 @@
+name = "EMF Compat: Supplementaries"
+filename = "emf_compat_supplementaries_forge_1.20.1_1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4FSlBqI/versions/6AuqNy4D/emf_compat_supplementaries_forge_1.20.1_1.1.1.jar"
+hash-format = "sha512"
+hash = "9ef45920cb9545a5c2148a93c91cc6e37a28e074e9a299732662fa5f885222f3925c2b56154e3575e0cd868a38dc193c351b5ef2c3d3b54857d2dcc086fff8c4"
+
+[update]
+[update.modrinth]
+mod-id = "z4FSlBqI"
+version = "6AuqNy4D"
