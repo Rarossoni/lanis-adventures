@@ -182,7 +182,7 @@ Modpack de aventura feito por **Lani**.
 | [When Dungeons Arise](https://modrinth.com/project/8DfbfASn) | `2.1.58` | Ambos | 2026-10-04 | Lani |
 | [Xaero's Minimap & World Map - Waystones Compatibility](https://modrinth.com/project/7mLhyqIY) | `1.1` | Ambos | 2026-10-05 | Lani |
 | [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) | `26.5.0` | Ambos | 2026-10-04 | Lani |
-| [Xaero's World Map](https://modrinth.com/project/NcUtCpym) | `1.46.0` | Ambos | 2026-10-04 | Lani |
+| [Xaero's World Map](https://modrinth.com/project/NcUtCpym) | `1.47.0` | Ambos | 2026-10-24 | Lani |
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR) | `3.6.6` | Ambos | 2026-10-05 | Lani |
 | [YUNG's API](https://modrinth.com/project/Ua7DFN59) | `4.0.6` | Ambos | 2026-10-04 | Lani |
 | [YUNG's Better Desert Temples](https://modrinth.com/project/XNlO7sBv) | `3.0.3` | Ambos | 2026-10-05 | Lani |
@@ -244,6 +244,9 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.3` | Cliente | 2026-10-05 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-24 — Lani
+- 🔄 **Atualizado** Xaero's World Map `1.46.0` → `1.47.0`
 
 ### 2026-10-23 — Lani
 - ➕ **Adicionado** Cinematic Interactions `0.18.11`
