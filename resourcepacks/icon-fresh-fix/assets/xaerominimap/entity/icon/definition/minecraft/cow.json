@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "minecraft:textures/entity/cow/cow.png": "outlined_sprite:minecraft/cow/temperate_cow.png",
+    "minecraft:textures/entity/cow/temperate_cow.png": "outlined_sprite:minecraft/cow/temperate_cow.png",
+    "minecraft:textures/entity/cow/cold_cow.png": "outlined_sprite:minecraft/cow/cold_cow.png",
+    "minecraft:textures/entity/cow/warm_cow.png": "outlined_sprite:minecraft/cow/warm_cow.png",
+    "default": "outlined_sprite:minecraft/cow/temperate_cow.png"
+  }
+}

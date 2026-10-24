@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "minecraft:textures/entity/chicken.png": "outlined_sprite:minecraft/chicken/temperate_chicken.png",
+    "minecraft:textures/entity/chicken/temperate_chicken.png": "outlined_sprite:minecraft/chicken/temperate_chicken.png",
+    "minecraft:textures/entity/chicken/warm_chicken.png": "outlined_sprite:minecraft/chicken/warm_chicken.png",
+    "minecraft:textures/entity/chicken/cold_chicken.png": "outlined_sprite:minecraft/chicken/cold_chicken.png",
+    "default": "outlined_sprite:minecraft/chicken/temperate_chicken.png"
+  }
+}

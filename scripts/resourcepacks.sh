@@ -21,8 +21,9 @@ done
 # Ordem: o arquivo lista de cima (prioridade) para baixo; o config quer de baixo para cima.
 mapfile -t order < <(grep -vE '^\s*(#|$)' resourcepack-order.txt | tr -d '\r')
 packs=()
-for slug in "${order[@]}"; do [ -e "resourcepacks/$slug.pw.toml" ] && packs+=("$slug"); done
-for f in resourcepacks/*.pw.toml; do
+for slug in "${order[@]}"; do { [ -e "resourcepacks/$slug.pw.toml" ] || [ -d "resourcepacks/$slug" ]; } && packs+=("$slug"); done
+for f in resourcepacks/*.pw.toml resourcepacks/*/; do
+  [ -e "$f" ] || continue
   slug=$(basename "$f" .pw.toml)
   [[ " ${order[*]} " == *" $slug "* ]] || packs=("$slug" "${packs[@]}")
 done
@@ -32,7 +33,12 @@ mkdir -p config
   printf '{\n  "schema_version": 2,\n  "failed_reloads_per_session": 5,\n  "default_packs": [\n'
   printf '    "vanilla",\n    "mod_resources"'
   for ((i = ${#packs[@]} - 1; i >= 0; i--)); do
-    fn=$(sed -n 's/^filename = "\(.*\)"$/\1/p' "resourcepacks/${packs[$i]}.pw.toml")
+    # Pack em pasta (sem .pw.toml, mantido no proprio repositorio): o nome e o da pasta
+    if [ -e "resourcepacks/${packs[$i]}.pw.toml" ]; then
+      fn=$(sed -n 's/^filename = "\(.*\)"$/\1/p' "resourcepacks/${packs[$i]}.pw.toml")
+    else
+      fn="${packs[$i]}"
+    fi
     printf ',\n    "file/%s"' "$fn"
   done
   printf '\n  ],\n  "default_overrides": {\n    "force_compatible": true\n  }\n}\n'

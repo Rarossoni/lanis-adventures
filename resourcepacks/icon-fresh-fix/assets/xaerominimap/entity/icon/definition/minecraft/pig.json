@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "minecraft:textures/entity/pig/pig.png%false": "outlined_sprite:minecraft/pig/temperate_pig.png",
+    "minecraft:textures/entity/pig/pig.png%true": "outlined_sprite:minecraft/pig/temperate_pig.png",
+    "minecraft:textures/entity/pig/temperate_pig.png%false": "outlined_sprite:minecraft/pig/temperate_pig.png",
+    "minecraft:textures/entity/pig/temperate_pig.png%true": "outlined_sprite:minecraft/pig/temperate_pig.png",
+    "minecraft:textures/entity/pig/warm_pig.png%false": "outlined_sprite:minecraft/pig/warm_pig.png",
+    "minecraft:textures/entity/pig/warm_pig.png%true": "outlined_sprite:minecraft/pig/warm_pig.png",
+    "minecraft:textures/entity/pig/cold_pig.png%false": "outlined_sprite:minecraft/pig/cold_pig.png",
+    "minecraft:textures/entity/pig/cold_pig.png%true": "outlined_sprite:minecraft/pig/cold_pig.png",
+    "default": "outlined_sprite:minecraft/pig/temperate_pig.png"
+  }
+}

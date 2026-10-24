@@ -10,7 +10,7 @@ hash = "f6d354e1e4955098dd2f6e917566ebddd47fcde2101d1f0f0b0ba2b154655971"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "f32ab2805a61eebf64180d76403c1313e2c7f2786af49549716b708c58448786"
+hash = "1fdfe971543cef5f359b71b31f48316f20688a425a153b9b62b9bba9e2934a0d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1001,6 +1001,22 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "57cb870fed2e736b445614f3d9f25b059eeab7c766418f20f479b50715114d06"
 metafile = true
+
+[[files]]
+file = "resourcepacks/icon-fresh-fix/assets/xaerominimap/entity/icon/definition/minecraft/chicken.json"
+hash = "eadc2efd58aa26b5a1346a9eaa8c458a21362826bfdb89eb751bfe88c7f5a62d"
+
+[[files]]
+file = "resourcepacks/icon-fresh-fix/assets/xaerominimap/entity/icon/definition/minecraft/cow.json"
+hash = "c7d9aa50f54822bbe7961fba5e833acb74803972597f5a28480d2df40d4948a3"
+
+[[files]]
+file = "resourcepacks/icon-fresh-fix/assets/xaerominimap/entity/icon/definition/minecraft/pig.json"
+hash = "42ff670fa3bbd53e72d381801d00fa8b29d15f2150bce81f64634067a2864b20"
+
+[[files]]
+file = "resourcepacks/icon-fresh-fix/pack.mcmeta"
+hash = "16d0c26ae7634294a2065d961d318257cd75eafb374a8b7938c96362c9fb114a"
 
 [[files]]
 file = "resourcepacks/icon-fresh.pw.toml"

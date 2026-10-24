@@ -13,7 +13,8 @@
     "file/fresh-animations-objects.zip",
     "file/fa-player-extension.zip",
     "file/fa-player-extension+just-expressions.zip",
-    "file/icon-fresh.zip"
+    "file/icon-fresh.zip",
+    "file/icon-fresh-fix"
   ],
   "default_overrides": {
     "force_compatible": true
