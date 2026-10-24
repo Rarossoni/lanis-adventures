@@ -7,3 +7,7 @@
 [oddities]
 	# Conflita com o Easy Magic (mesa de encantamento)
 	"Matrix Enchanting" = false
+
+[client]
+	# Texturas variantes (vaca, porco, galinha...) nao combinam com os modelos do Fresh Animations
+	"Variant Animal Textures" = false

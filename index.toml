@@ -6,7 +6,7 @@ hash = "34c53a7f6368c1a0613145a8598224daedb7e873ed0b11c8babd92a577cc000b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "353a03538357a0dfd598513fdc7890e06ffc67299fc7c6ebe3788c4a4459644b"
+hash = "f6d354e1e4955098dd2f6e917566ebddd47fcde2101d1f0f0b0ba2b154655971"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
