@@ -14,6 +14,8 @@ key_justzoom.keybinds.keybind.zoom:key.keyboard.z
 key_justzoom.keybinds.keybind.zoom_in:key.mouse.9
 key_justzoom.keybinds.keybind.zoom_out:key.mouse.10
 key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
+# Zoom da lente do Hexerei: fica no ponto (.) para nao brigar com o zoom do Z
+key_key.hexerei.glasses_zoom:key.keyboard.period
 
 # --- B: mochila ----------------------------------------------------------------
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
@@ -72,6 +74,8 @@ key_key.ars_nouveau.qc7:key.keyboard.unknown
 key_key.ars_nouveau.qc8:key.keyboard.unknown
 key_key.ars_nouveau.qc9:key.keyboard.unknown
 key_key.ars_nouveau.qc10:key.keyboard.unknown
+# Aljava do Supplementaries: comma (V e do Iron's)
+key_supplementaries.keybind.quiver:key.keyboard.comma
 
 # --- X: habilidade do item NA MAO (so segura um por vez, entao podem dividir) ---
 key_key.cataclysm.ability:key.keyboard.x
@@ -95,15 +99,35 @@ key_key.cataclysm.boots_ability:key.keyboard.o
 # Botao lateral do mouse (voltar): impulso da Soul Elytra
 key_key.deeperdarker.boost:key.mouse.4
 
+# --- Talking Heads: ` (crase) liga/desliga, para nao brigar com o H ----------------
+key_talkingheads.keybinding.modToggle:key.keyboard.grave
+
 # --- J: pets -------------------------------------------------------------------
 key_key.faunify.shoulder_mount:key.keyboard.j
-key_key.adorablehamsterpets.throw_hamster:key.keyboard.j
+# Arremessar hamster: F8 (J e do ombro)
+key_key.adorablehamsterpets.throw_hamster:key.keyboard.f8
 
 # --- Dragao (Ice and Fire): so funcionam montado -------------------------------
 key_key.dragon_fireAttack:key.keyboard.r
 key_key.dragon_strike:key.keyboard.g
 key_key.dragon_down:key.keyboard.x
 key_key.dragon_change_view:key.keyboard.f7
+
+# --- Saint's Dragons: so funcionam montado -------------------------------------
+# Flex no keypad 6 (o 4 e o slot de item da hotbar)
+key_key.saintsdragons.flex:key.keyboard.keypad.6
+# Pilotar o Hexerei (vassoura): descer no keypad 1 (Ctrl e o sprint)
+key_key.hexerei.broomDescend:key.keyboard.keypad.1
+
+# --- Curios: inventario de acessorios em F6 (G e do Ars) -----------------------
+key_key.curios.open.desc:key.keyboard.f6
+
+# --- Corpse: historico de morte em F9 (U e do waypoint) ------------------------
+key_key.corpse.death_history:key.keyboard.f9
+
+# --- Shaders (Oculus): F10 liga/desliga (K e do livro do Ars) ------------------
+key_iris.keybind.toggleShaders:key.keyboard.f10
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 
 # --- I: acessorios do Aether ---------------------------------------------------
 key_key.aether.open_accessories.desc:key.keyboard.i
