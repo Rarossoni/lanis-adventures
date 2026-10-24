@@ -24,7 +24,7 @@ Modpack de aventura feito por **Lani**.
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
 | [ Integrated Dungeons and Structures](https://modrinth.com/project/Z8OZShAU) | `1.13.0` | Ambos | 2026-10-06 | Lani |
-| [3D Skin Layers](https://modrinth.com/project/zV5r3pPn) | `1.11.3` | Cliente | 2026-10-05 | Lani |
+| [3D Skin Layers](https://modrinth.com/project/zV5r3pPn) | `1.11.4` | Cliente | 2026-10-24 | Lani |
 | [Absolute Order: Custom Chest Auto-Sorter](https://modrinth.com/project/tGfovP6L) | `2.0.0` | Cliente | 2026-10-04 | Lani |
 | [Adorable Hamster Pets](https://modrinth.com/project/LmrhZdK2) | `3.7.0` | Ambos | 2026-10-05 | Lani |
 | [Alex's Caves](https://modrinth.com/project/U6GY0xp0) | `2.0.2` | Ambos | 2026-10-04 | Lani |
@@ -45,7 +45,7 @@ Modpack de aventura feito por **Lani**.
 | [Caelus API](https://modrinth.com/project/40FYwb4z) | `3.2.0` | Ambos | 2026-10-05 | Lani |
 | [Carry On](https://modrinth.com/project/joEfVgkn) | `2.1.2.7` | Ambos | 2026-10-04 | Lani |
 | [CERBON's API](https://modrinth.com/project/GkIc6rRo) | `1.1.0` | Ambos | 2026-10-05 | Lani |
-| [Chat Animation [Smooth Chat]](https://modrinth.com/project/DnNYdJsx) | `1.3.4` | Cliente | 2026-10-05 | Lani |
+| [Chat Animation [Smooth Chat]](https://modrinth.com/project/DnNYdJsx) | `1.3.5` | Cliente | 2026-10-24 | Lani |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ) | `0.15.7` | Cliente | 2026-10-05 | Lani |
 | [Chunky](https://modrinth.com/project/fALzjamp) | `1.3.146` | Ambos | 2026-10-05 | Lani |
 | [Cinematic Interactions](https://www.curseforge.com/projects/1743441) | `0.18.11` | Ambos | 2026-10-23 | Lani |
@@ -77,9 +77,9 @@ Modpack de aventura feito por **Lani**.
 | [EMF Compat: Core](https://modrinth.com/project/hbGct5uU) | `2.3.2` | Cliente | 2026-10-23 | Lani |
 | [EMF Compat: Create](https://modrinth.com/project/J9McOdzy) | `2.1.0` | Cliente | 2026-10-23 | Lani |
 | [EMF Compat: Exposure](https://modrinth.com/project/mHqWFw6Z) | `1.0.0` | Cliente | 2026-10-23 | Lani |
-| [EMF Compat: Not Enough Animations](https://modrinth.com/project/IGCrWfL7) | `1.2.0` | Cliente | 2026-10-05 | Lani |
+| [EMF Compat: Not Enough Animations](https://modrinth.com/project/IGCrWfL7) | `1.2.1` | Cliente | 2026-10-24 | Lani |
 | [EMF Compat: Supplementaries](https://modrinth.com/project/z4FSlBqI) | `1.1.1` | Cliente | 2026-10-23 | Lani |
-| [Entity Culling](https://modrinth.com/project/NNAgCjsB) | `1.11.2` | Cliente | 2026-10-04 | Lani |
+| [Entity Culling](https://modrinth.com/project/NNAgCjsB) | `1.11.3` | Cliente | 2026-10-24 | Lani |
 | [EpheroLib](https://www.curseforge.com/projects/885449) | `1.2.0` | Ambos | 2026-10-05 | Lani |
 | [Equipment Compare](https://modrinth.com/project/CYSUVOdj) | `1.3.7` | Cliente | 2026-10-05 | Lani |
 | [Euphoria Patches](https://modrinth.com/project/4H6sumDB) | `1.10.5` | Cliente | 2026-10-05 | Lani |
@@ -90,8 +90,8 @@ Modpack de aventura feito por **Lani**.
 | [FastSuite](https://modrinth.com/project/roccmqou) | `5.1.2` | Ambos | 2026-10-05 | Lani |
 | [Faunify](https://modrinth.com/project/lqLPTalI) | `1.3.3` | Ambos | 2026-10-04 | Lani |
 | [FerriteCore](https://modrinth.com/project/uXXizFIs) | `6.0.1` | Ambos | 2026-10-04 | Lani |
-| [Fragmentum](https://modrinth.com/project/49C5QgTK) | `5.1.1` | Ambos | 2026-10-04 | Lani |
-| [Friends&Foes (Forge/NeoForge)](https://modrinth.com/project/BOCJKD49) | `3.0.9` | Ambos | 2026-10-05 | Lani |
+| [Fragmentum](https://modrinth.com/project/49C5QgTK) | `5.4.0` | Ambos | 2026-10-24 | Lani |
+| [Friends&Foes (Forge/NeoForge)](https://modrinth.com/project/BOCJKD49) | `5.0.3` | Ambos | 2026-10-24 | Lani |
 | [Fzzy Config](https://modrinth.com/project/hYykXjDp) | `0.7.7` | Ambos | 2026-10-05 | Lani |
 | [Geckolib](https://modrinth.com/project/8BmcQJ2H) | `4.8.4` | Ambos | 2026-10-05 | Lani |
 | [Ghosts](https://www.curseforge.com/projects/602665) | `1.3.3` | Ambos | 2026-10-05 | Lani |
@@ -103,15 +103,15 @@ Modpack de aventura feito por **Lani**.
 | [Illager Invasion](https://modrinth.com/project/jSV9w0J5) | `8.0.7` | Ambos | 2026-10-05 | Lani |
 | [Immersive UI](https://modrinth.com/project/9wv7LuMc) | `0.3.0` | Cliente | 2026-10-05 | Lani |
 | [Incendium Legacy](https://modrinth.com/project/ZVzW5oNS) | `5.3.5` | Ambos | 2026-10-05 | Lani |
-| [Integrated API](https://modrinth.com/project/V6fKbpBN) | `1.8.2` | Ambos | 2026-10-06 | Lani |
+| [Integrated API](https://modrinth.com/project/V6fKbpBN) | `1.9.1` | Ambos | 2026-10-24 | Lani |
 | [Iris & Oculus Flywheel Compat](https://modrinth.com/project/ndHYMY2K) | `2.0.3` | Cliente | 2026-10-05 | Lani |
 | [Iron's Lib](https://modrinth.com/project/9nfaJPtX) | `2.2.0` | Ambos | 2026-10-06 | Lani |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/project/s4OWxYQQ) | `3.16.3` | Ambos | 2026-10-06 | Lani |
 | [Item Highlighter](https://modrinth.com/project/cVNW5lr6) | `1.1.9` | Cliente | 2026-10-05 | Lani |
 | [Jade 🔍](https://modrinth.com/project/nvQzSEkH) | `11.13.3` | Ambos | 2026-10-04 | Lani |
-| [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) | `15.62.0.219` | Ambos | 2026-10-04 | Lani |
+| [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) | `15.74.0.229` | Ambos | 2026-10-24 | Lani |
 | [Just Zoom](https://modrinth.com/project/iAiqcykM) | `3.0.1` | Cliente | 2026-10-05 | Lani |
-| [Knight Lib](https://modrinth.com/project/hAnl9nbm) | `2.0.4` | Ambos | 2026-10-05 | Lani |
+| [Knight Lib](https://modrinth.com/project/hAnl9nbm) | `2.0.5` | Ambos | 2026-10-24 | Lani |
 | [Konkrete](https://modrinth.com/project/J81TRJWm) | `1.8.0` | Ambos | 2026-10-05 | Lani |
 | [Kotlin for Forge](https://modrinth.com/project/ordsPcFz) | `4.12.0` | Ambos | 2026-10-05 | Lani |
 | [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) | `8.0.0` | Ambos | 2026-10-04 | Lani |
@@ -123,14 +123,14 @@ Modpack de aventura feito por **Lani**.
 | [Marium's Soulslike Weaponry](https://modrinth.com/project/oX6SohLj) | `1.4.10` | Ambos | 2026-10-05 | Lani |
 | [MES - Moog's End Structures](https://modrinth.com/project/r4PuRGfV) | `2.1.0` | Ambos | 2026-10-06 | Lani |
 | [MezzConfig](https://modrinth.com/project/7tEfOcA7) | `0.6.8` | Ambos | 2026-10-04 | Lani |
-| [ModernFix](https://modrinth.com/project/nmDcB62a) | `5.27.85` | Ambos | 2026-10-05 | Lani |
+| [ModernFix](https://modrinth.com/project/nmDcB62a) | `5.27.91` | Ambos | 2026-10-24 | Lani |
 | [Moog's Structure Lib (moogs_structures)](https://modrinth.com/project/1oUDhxuy) | `3.4.2` | Ambos | 2026-10-06 | Lani |
-| [Moonlight Lib](https://modrinth.com/project/twkfQtEc) | `2.16.35` | Ambos | 2026-10-04 | Lani |
+| [Moonlight Lib](https://modrinth.com/project/twkfQtEc) | `2.16.37` | Ambos | 2026-10-24 | Lani |
 | [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq) | `2.25.1` | Cliente | 2026-10-04 | Lani |
 | [Mowzie's Mobs](https://modrinth.com/project/BFbX9xcm) | `1.8.2` | Ambos | 2026-10-04 | Lani |
 | [MVS - Moog's Voyager Structures](https://modrinth.com/project/OQAgZMH1) | `5.1.3` | Ambos | 2026-10-06 | Lani |
 | [Nature's Compass](https://modrinth.com/project/fPetb5Kh) | `1.12.0` | Ambos | 2026-10-06 | Lani |
-| [Nenu's Pop Plushies](https://www.curseforge.com/projects/1426170) | `2.10.0` | Ambos | 2026-10-04 | Lani |
+| [Nenu's Pop Plushies](https://www.curseforge.com/projects/1426170) | `2.11` | Ambos | 2026-10-24 | Lani |
 | [Nether Depths Upgrade](https://modrinth.com/project/vI1QKJro) | `3.1.5` | Ambos | 2026-10-05 | Lani |
 | [Not Enough Animations](https://modrinth.com/project/MPCX6s5C) | `1.12.6` | Cliente | 2026-10-05 | Lani |
 | [Nullscape](https://modrinth.com/project/LPjGiSO4) | `1.2.8` | Ambos | 2026-10-05 | Lani |
@@ -143,7 +143,7 @@ Modpack de aventura feito por **Lani**.
 | [Placebo](https://modrinth.com/project/tCkE8p2N) | `8.6.3` | Ambos | 2026-10-05 | Lani |
 | [playerAnimator](https://modrinth.com/project/gedNE4y2) | `1.0.2` | Ambos | 2026-10-06 | Lani |
 | [Polymorph](https://modrinth.com/project/tagwiZkJ) | `0.49.11` | Ambos | 2026-10-06 | Lani |
-| [Puzzles Lib](https://modrinth.com/project/QAGBst4M) | `8.1.33` | Ambos | 2026-10-04 | Lani |
+| [Puzzles Lib](https://modrinth.com/project/QAGBst4M) | `8.1.36` | Ambos | 2026-10-24 | Lani |
 | [Quark](https://modrinth.com/project/qnQsVE2z) | `4.0` | Ambos | 2026-10-06 | Lani |
 | [Ranged Weapon API](https://modrinth.com/project/AqaIIO6D) | `2.3.4` | Ambos | 2026-10-05 | Lani |
 | [Relics](https://modrinth.com/project/OCJRPujW) | `0.8.0.13` | Ambos | 2026-10-05 | Lani |
@@ -156,22 +156,22 @@ Modpack de aventura feito por **Lani**.
 | [ShatterLib | OctoLib](https://modrinth.com/project/RH2KUdKJ) | `0.5.0.1` | Ambos | 2026-10-05 | Lani |
 | [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq) | `4.0.4` | Ambos | 2026-10-04 | Lani |
 | [Simple Backups](https://modrinth.com/project/fzSKSXVK) | `3.1.24` | Ambos | 2026-10-04 | Lani |
-| [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1) | `2.6.24` | Ambos | 2026-10-05 | Lani |
-| [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) | `3.26.6.2176` | Ambos | 2026-10-04 | Lani |
-| [Sophisticated Core](https://modrinth.com/project/nmoqTijg) | `1.5.4.2362` | Ambos | 2026-10-04 | Lani |
-| [Sophisticated Storage](https://modrinth.com/project/hMlaZH8f) | `1.5.0.2137` | Ambos | 2026-10-04 | Lani |
+| [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1) | `2.6.26` | Ambos | 2026-10-24 | Lani |
+| [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b) | `3.26.14.2226` | Ambos | 2026-10-24 | Lani |
+| [Sophisticated Core](https://modrinth.com/project/nmoqTijg) | `1.5.15.2427` | Ambos | 2026-10-24 | Lani |
+| [Sophisticated Storage](https://modrinth.com/project/hMlaZH8f) | `1.5.9.2197` | Ambos | 2026-10-24 | Lani |
 | [spark](https://modrinth.com/project/l6YH9Als) | `1.10.53` | Ambos | 2026-10-06 | Lani |
 | [Structory: Towers](https://modrinth.com/project/j3FONRYr) | `1.0.7` | Ambos | 2026-10-05 | Lani |
 | [Structory](https://modrinth.com/project/aKCwCJlY) | `1.3.5` | Ambos | 2026-10-05 | Lani |
 | [Studious Keybinds](https://www.curseforge.com/projects/1731572) | `1.0.10` | Cliente | 2026-10-23 | Lani |
 | [Supplementaries Squared](https://www.curseforge.com/projects/838411) | `1.1.29` | Ambos | 2026-10-05 | Lani |
-| [Supplementaries](https://www.curseforge.com/projects/412082) | `3.1.43` | Ambos | 2026-10-05 | Lani |
+| [Supplementaries](https://www.curseforge.com/projects/412082) | `3.1.44` | Ambos | 2026-10-24 | Lani |
 | [Talking Heads](https://modrinth.com/project/Os35nfkh) | `1.1.4` | Cliente | 2026-10-05 | Lani |
 | [Tectonic](https://modrinth.com/project/lWDHr9jE) | `2.2.1` | Ambos | 2026-10-04 | Lani |
 | [TerraBlender](https://modrinth.com/project/kkmrDlKT) | `3.0.1.11` | Ambos | 2026-10-06 | Lani |
 | [Terralith](https://modrinth.com/project/8oi3bsk5) | `2.5.4` | Ambos | 2026-10-04 | Lani |
 | [The Aether](https://modrinth.com/project/YhmgMVyu) | `1.5.2` | Ambos | 2026-10-06 | Lani |
-| [The Graveyard (FORGE/NEOFORGE)](https://modrinth.com/project/U1jdQuSf) | `3.1` | Ambos | 2026-10-05 | Lani |
+| [The Graveyard (FORGE/NEOFORGE)](https://modrinth.com/project/U1jdQuSf) | `4.0.0` | Ambos | 2026-10-24 | Lani |
 | [The Twilight Forest](https://www.curseforge.com/projects/227639) | `4.3.2508` | Ambos | 2026-10-05 | Lani |
 | [Touch'n Motion](https://www.curseforge.com/projects/1734204) | `1.0.4` | Ambos | 2026-10-23 | Lani |
 | [Towns and Towers](https://modrinth.com/project/DjLobEOy) | `1.12` | Ambos | 2026-10-04 | Lani |
@@ -181,7 +181,7 @@ Modpack de aventura feito por **Lani**.
 | [Waystones](https://modrinth.com/project/LOpKHB2A) | `14.1.21` | Ambos | 2026-10-04 | Lani |
 | [When Dungeons Arise](https://modrinth.com/project/8DfbfASn) | `2.1.58` | Ambos | 2026-10-04 | Lani |
 | [Xaero's Minimap & World Map - Waystones Compatibility](https://modrinth.com/project/7mLhyqIY) | `1.1` | Ambos | 2026-10-05 | Lani |
-| [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) | `26.5.0` | Ambos | 2026-10-04 | Lani |
+| [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) | `26.6.0` | Ambos | 2026-10-24 | Lani |
 | [Xaero's World Map](https://modrinth.com/project/NcUtCpym) | `1.47.0` | Ambos | 2026-10-24 | Lani |
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR) | `3.6.6` | Ambos | 2026-10-05 | Lani |
 | [YUNG's API](https://modrinth.com/project/Ua7DFN59) | `4.0.6` | Ambos | 2026-10-04 | Lani |
@@ -227,7 +227,7 @@ Ative em *Opções → Pacotes de recursos*.
 | [Fresh Animations: Objects](https://modrinth.com/project/23O9JVMV) | `2.1.2` | Cliente | 2026-10-05 | Lani |
 | [Fresh Animations: Player Extension + Just Expressions](https://modrinth.com/project/E6UMWeLX) | `1.2` | Cliente | 2026-10-05 | Lani |
 | [Fresh Animations: Player Extension](https://modrinth.com/project/TAIMVZCL) | `1.1` | Cliente | 2026-10-05 | Lani |
-| [Fresh Animations](https://modrinth.com/project/50dA9Sha) | `1.10.4` | Cliente | 2026-10-05 | Lani |
+| [Fresh Animations](https://modrinth.com/project/50dA9Sha) | `1.11.1` | Cliente | 2026-10-24 | Lani |
 | [Icon Fresh](https://www.curseforge.com/projects/1159273) | `1.3` | Cliente | 2026-10-05 | Lani |
 | [Immersive Interfaces](https://modrinth.com/project/3sV1gvyJ) | `—` | Cliente | 2026-10-05 | Lani |
 
@@ -240,10 +240,35 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Bliss Shaders](https://modrinth.com/project/ZvMtQlho) | `2.1.2` | Cliente | 2026-10-05 | Lani |
 | [BSL Shaders](https://modrinth.com/project/Q1vvjJYV) | `10.1.8` | Cliente | 2026-10-05 | Lani |
 | [Complementary Shaders - Reimagined](https://modrinth.com/project/HVnmMxH1) | `5.9.3` | Cliente | 2026-10-05 | Lani |
-| [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a) | `9.5` | Cliente | 2026-10-05 | Lani |
-| [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.3` | Cliente | 2026-10-05 | Lani |
+| [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a) | `9.6` | Cliente | 2026-10-24 | Lani |
+| [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-24 — Lani
+- 🔄 **Atualizado** 3D Skin Layers `1.11.3` → `1.11.4`
+- 🔄 **Atualizado** Chat Animation [Smooth Chat] `1.3.4` → `1.3.5`
+- 🔄 **Atualizado** EMF Compat: Not Enough Animations `1.2.0` → `1.2.1`
+- 🔄 **Atualizado** Entity Culling `1.11.2` → `1.11.3`
+- 🔄 **Atualizado** Fragmentum `5.1.1` → `5.4.0`
+- 🔄 **Atualizado** Fresh Animations `1.10.4` → `1.11.1`
+- 🔄 **Atualizado** Friends&Foes (Forge/NeoForge) `3.0.9` → `5.0.3`
+- 🔄 **Atualizado** Integrated API `1.8.2` → `1.9.1`
+- 🔄 **Atualizado** Just Enough Items (JEI) `15.62.0.219` → `15.74.0.229`
+- 🔄 **Atualizado** Knight Lib `2.0.4` → `2.0.5`
+- 🔄 **Atualizado** MakeUp - Ultra Fast `9.5` → `9.6`
+- 🔄 **Atualizado** ModernFix `5.27.85` → `5.27.91`
+- 🔄 **Atualizado** Moonlight Lib `2.16.35` → `2.16.37`
+- 🔄 **Atualizado** Nenu's Pop Plushies `2.10.0` → `2.11`
+- 🔄 **Atualizado** Photon Shaders `1.3` → `1.4`
+- 🔄 **Atualizado** Puzzles Lib `8.1.33` → `8.1.36`
+- 🔄 **Atualizado** Simple Voice Chat `2.6.24` → `2.6.26`
+- 🔄 **Atualizado** Sophisticated Backpacks `3.26.6.2176` → `3.26.14.2226`
+- 🔄 **Atualizado** Sophisticated Core `1.5.4.2362` → `1.5.15.2427`
+- 🔄 **Atualizado** Sophisticated Storage `1.5.0.2137` → `1.5.9.2197`
+- 🔄 **Atualizado** Supplementaries `3.1.43` → `3.1.44`
+- 🔄 **Atualizado** The Graveyard (FORGE/NEOFORGE) `3.1` → `4.0.0`
+- 🔄 **Atualizado** Xaero's Minimap `26.5.0` → `26.6.0`
 
 ### 2026-10-24 — Lani
 - 🔄 **Atualizado** Xaero's World Map `1.46.0` → `1.47.0`
