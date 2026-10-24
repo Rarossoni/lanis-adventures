@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 190 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 191 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (190)
+## Mods (191)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -177,6 +177,7 @@ Modpack de aventura feito por **Lani**.
 | [Towns and Towers](https://modrinth.com/project/DjLobEOy) | `1.12` | Ambos | 2026-10-04 | Lani |
 | [Trade Cycling](https://modrinth.com/project/qpPoAL6m) | `1.0.18` | Ambos | 2026-10-04 | Lani |
 | [Traveler's Titles](https://modrinth.com/project/JtifUr64) | `4.0.2` | Cliente | 2026-10-06 | Lani |
+| [VillagersTradingPlus](https://modrinth.com/project/DhOXUfnP) | `1.1.0` | Ambos | 2026-10-24 | Lani |
 | [Waystones Teleport Pets](https://modrinth.com/project/VaCl9OtG) | `1.2` | Ambos | 2026-10-05 | Lani |
 | [Waystones](https://modrinth.com/project/LOpKHB2A) | `14.1.21` | Ambos | 2026-10-04 | Lani |
 | [When Dungeons Arise](https://modrinth.com/project/8DfbfASn) | `2.1.58` | Ambos | 2026-10-04 | Lani |
@@ -244,6 +245,9 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-10-24 — Lani
+- 🔧 **Fix:** adicionado VillagersTradingPlus `1.1.0`
 
 ### 2026-10-24 — Lani
 - 🔄 **Atualizado** 3D Skin Layers `1.11.3` → `1.11.4`

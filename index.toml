@@ -863,6 +863,11 @@ hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
 metafile = true
 
 [[files]]
+file = "mods/villagerstradingplus.pw.toml"
+hash = "cbe274b23a70d1ef1bab8d273830dbee440bbc9c15a598275766a734b64e58ac"
+metafile = true
+
+[[files]]
 file = "mods/waystones-teleport-pets.pw.toml"
 hash = "f8955beea9cea58d6180d5fb9ffa62fe00b71a1e1ae6d2cd5db483417e74a016"
 metafile = true
