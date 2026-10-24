@@ -97,7 +97,7 @@ Modpack de aventura feito por **Lani**.
 | [Ghosts](https://www.curseforge.com/projects/602665) | `1.3.3` | Ambos | 2026-10-05 | Lani |
 | [Handcrafted](https://modrinth.com/project/pJmCFF0p) | `3.0.6` | Ambos | 2026-10-04 | Lani |
 | [Heartstone](https://www.curseforge.com/projects/573152) | `1.3.0` | Ambos | 2026-10-05 | Lani |
-| [Hexerei](https://www.curseforge.com/projects/548599) | `0.4.2.3` | Ambos | 2026-10-23 | Lani |
+| [Hexerei](https://modrinth.com/project/IQSOHVhI) | `0.4.2.3` | Ambos | 2026-10-23 | Lani |
 | [Ice and Fire](https://modrinth.com/project/LVnvHVBp) | `2.1.13` | Ambos | 2026-10-04 | Lani |
 | [Iceberg](https://modrinth.com/project/5faXoLqX) | `1.1.25` | Ambos | 2026-10-05 | Lani |
 | [Illager Invasion](https://modrinth.com/project/jSV9w0J5) | `8.0.7` | Ambos | 2026-10-05 | Lani |
