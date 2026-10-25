@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "34c53a7f6368c1a0613145a8598224daedb7e873ed0b11c8babd92a577cc000b"
+hash = "abcb74b68e682953727a585b93706eaac5271d57ad45e57508ab9abd68d27efd"
 
 [[files]]
 file = "config/quark-common.toml"

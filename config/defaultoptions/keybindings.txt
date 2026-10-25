@@ -100,7 +100,7 @@ key_key.cataclysm.boots_ability:key.keyboard.o
 key_key.deeperdarker.boost:key.mouse.4
 
 # --- Talking Heads: ` (crase) liga/desliga, para nao brigar com o H ----------------
-key_talkingheads.keybinding.modToggle:key.keyboard.grave
+key_talkingheads.keybinding.modToggle:key.keyboard.grave.accent
 
 # --- J: pets -------------------------------------------------------------------
 key_key.faunify.shoulder_mount:key.keyboard.j
