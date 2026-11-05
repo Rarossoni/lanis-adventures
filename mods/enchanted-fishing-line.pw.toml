@@ -1,0 +1,13 @@
+name = "Enchanted Fishing Line"
+filename = "enchanted_fishing_line-1.0.0-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FtXZNeim/versions/iCrD6BUn/enchanted_fishing_line-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ae298a0bc30a20293ff23ca4d2bc6ad9cb8582b9acb9ac30a1627a83bc82b27f4b94e0c20c79fb1b1e5c8bfa24315e054070dd7b8b1a7261f223e83907e18763"
+
+[update]
+[update.modrinth]
+mod-id = "FtXZNeim"
+version = "iCrD6BUn"

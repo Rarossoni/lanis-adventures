@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "abcb74b68e682953727a585b93706eaac5271d57ad45e57508ab9abd68d27efd"
+hash = "7b09d830c08d6d3709391624f6377b675c597f8c005f691ce778e4a2b7d0f6f5"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -10,7 +10,7 @@ hash = "f6d354e1e4955098dd2f6e917566ebddd47fcde2101d1f0f0b0ba2b154655971"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1fdfe971543cef5f359b71b31f48316f20688a425a153b9b62b9bba9e2934a0d"
+hash = "04bb32fb15c25bf7dc42a02c22866a116bda971aae4a4ae6cf6be70ea07f3a0a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -285,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/emf-compat-supplementaries.pw.toml"
 hash = "16f2381e794df6a90f1925032ad6e2e23a39a29de9b7205c2054a31f067ce1c2"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-fishing-line.pw.toml"
+hash = "50adff6f1e4f335c777200f154db53dceb7a1730568689b9e8f14e84fe354fde"
 metafile = true
 
 [[files]]
@@ -703,6 +708,11 @@ hash = "ed94d498e80a45f90b1aa6ee5a52f87b9277db3a4466cdea4367a3a240a0d595"
 metafile = true
 
 [[files]]
+file = "mods/punchymoves.pw.toml"
+hash = "6ed87af73d4da8cb2669a57dccfdcedc35cbe4ba045316f659db280e0b1e626f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
@@ -848,6 +858,11 @@ hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
+file = "mods/tiny-takeover-x-punchy.pw.toml"
+hash = "4799d7f476efd4d9b281ec42bf9a51a61b309e170fbfc8150fb16d78681090fe"
+metafile = true
+
+[[files]]
 file = "mods/touch-and-motion.pw.toml"
 hash = "938c6a67a9f223e12d294cdae5c69a3eaccf0308bed5227d32b92baa78ab767e"
 metafile = true
@@ -990,6 +1005,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "69379695887489116f00f4403aacf4309fc493da63113fe783e5bce35a93f8fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fluid-foolish.pw.toml"
+hash = "6b18838d3342bc6685e233f52dd573a9b55e7a6a0e1b3df9a795d9e94bd7c098"
 metafile = true
 
 [[files]]

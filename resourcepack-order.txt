@@ -12,3 +12,4 @@ fresh-animations
 cubic-sun-moon
 create-sophisticated-backpacks
 shrimps-immersive-interfaces
+fluid-foolish

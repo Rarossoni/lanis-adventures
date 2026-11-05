@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 192 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 195 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (192)
+## Mods (195)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@ Modpack de aventura feito por **Lani**.
 | [EMF Compat: Exposure](https://modrinth.com/project/mHqWFw6Z) | `1.0.0` | Cliente | 2026-10-23 | Lani |
 | [EMF Compat: Not Enough Animations](https://modrinth.com/project/IGCrWfL7) | `1.2.1` | Cliente | 2026-10-24 | Lani |
 | [EMF Compat: Supplementaries](https://modrinth.com/project/z4FSlBqI) | `1.1.1` | Cliente | 2026-10-23 | Lani |
+| [Enchanted Fishing Line](https://modrinth.com/project/FtXZNeim) | `1.0.0` | Cliente | 2026-11-04 | Lani |
 | [Entity Culling](https://modrinth.com/project/NNAgCjsB) | `1.11.3` | Cliente | 2026-10-24 | Lani |
 | [EpheroLib](https://www.curseforge.com/projects/885449) | `1.2.0` | Ambos | 2026-10-05 | Lani |
 | [Equipment Compare](https://modrinth.com/project/CYSUVOdj) | `1.3.7` | Cliente | 2026-10-05 | Lani |
@@ -143,6 +144,8 @@ Modpack de aventura feito por **Lani**.
 | [Placebo](https://modrinth.com/project/tCkE8p2N) | `8.6.3` | Ambos | 2026-10-05 | Lani |
 | [playerAnimator](https://modrinth.com/project/gedNE4y2) | `1.0.2` | Ambos | 2026-10-06 | Lani |
 | [Polymorph](https://modrinth.com/project/tagwiZkJ) | `0.49.11` | Ambos | 2026-10-06 | Lani |
+| [Punchy! Moves](https://modrinth.com/project/mzgtK8pY) | `1.0.6` | Cliente | 2026-11-04 | Lani |
+| [Punchy! x Tiny Takeover](https://modrinth.com/project/FDqBVN2B) | `2.0.4` | Cliente | 2026-11-04 | Lani |
 | [Punchy!](https://modrinth.com/project/8aoMKplv) | `3.1` | Cliente | 2026-11-04 | Lani |
 | [Puzzles Lib](https://modrinth.com/project/QAGBst4M) | `8.1.36` | Ambos | 2026-10-24 | Lani |
 | [Quark](https://modrinth.com/project/qnQsVE2z) | `4.0` | Ambos | 2026-10-06 | Lani |
@@ -216,7 +219,7 @@ Modpack de aventura feito por **Lani**.
 | [[Let's Do] Vinery](https://modrinth.com/project/1DWmBJVA) | `1.4.41` | Ambos | 2026-10-05 | Lani |
 | [[Let's Do] WilderNature](https://modrinth.com/project/AAiRU4aQ) | `1.0.6` | Ambos | 2026-10-05 | Lani |
 
-## Resource packs (10)
+## Resource packs (11)
 
 Ative em *Opções → Pacotes de recursos*.
 
@@ -224,6 +227,7 @@ Ative em *Opções → Pacotes de recursos*.
 |---|---|---|---|---|
 | [Create Style Sophisticated Backpacks](https://modrinth.com/project/srJbhHkf) | `—` | Cliente | 2026-10-05 | Lani |
 | [Cubic Sun & Moon](https://modrinth.com/project/g4bSYbrU) | `1.8.5` | Cliente | 2026-10-05 | Lani |
+| [Fluid & Foolish](https://modrinth.com/project/fQdwNxte) | `1.0.1` | Cliente | 2026-11-04 | Lani |
 | [Fresh Animations: Details](https://modrinth.com/project/lctgpCsu) | `2.4` | Cliente | 2026-11-04 | Lani |
 | [Fresh Animations: Extensions](https://modrinth.com/project/YAVTU8mK) | `1.10.1` | Cliente | 2026-11-04 | Lani |
 | [Fresh Animations: Objects](https://modrinth.com/project/23O9JVMV) | `2.1.2` | Cliente | 2026-10-05 | Lani |
@@ -246,6 +250,12 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-04 — Lani
+- ➕ **Adicionado** Enchanted Fishing Line `1.0.0`
+- ➕ **Adicionado** Fluid & Foolish `1.0.1`
+- ➕ **Adicionado** Punchy! Moves `1.0.6`
+- ➕ **Adicionado** Punchy! x Tiny Takeover `2.0.4`
 
 ### 2026-11-04 — Lani
 - ➕ **Adicionado** Punchy! `3.1`

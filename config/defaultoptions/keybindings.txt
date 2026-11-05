@@ -167,3 +167,10 @@ key_quark.keybind.variant_selector:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_key.jei.shareToChat:key.keyboard.unknown
+
+# --- Punchy & Punchy Moves: camera sem conflito com V (Iron's) -----------------
+key_key.punchy_moves.camera_toggle_v:key.keyboard.backslash
+key_key.punchy_moves.camera_editor:key.keyboard.unknown
+key_key.punchy_moves.free_camera:key.keyboard.unknown
+key_key.punchy_moves.emote_menu:key.keyboard.unknown
+key_key.punchy_moves.first_person_menu:key.keyboard.unknown

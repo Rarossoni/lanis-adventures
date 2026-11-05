@@ -1,0 +1,14 @@
+name = "Fluid & Foolish"
+filename = "fluid-foolish.zip"
+# arquivo = "Fluid filename = "Fluid & Foolish 1.0.1.zip" Foolish 1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQdwNxte/versions/UAp4jRDk/Fluid%20%26%20Foolish%201.0.1.zip"
+hash-format = "sha512"
+hash = "09544efccdb63bbd6a2f583184bea82cfe01c78cd36f9bf9343cd8cc0243b19d7993aa280481d42c68c4b19e6abb3b52346d93115d48b50e1e37be9c53efafb9"
+
+[update]
+[update.modrinth]
+mod-id = "fQdwNxte"
+version = "UAp4jRDk"

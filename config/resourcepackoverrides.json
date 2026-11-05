@@ -4,6 +4,7 @@
   "default_packs": [
     "vanilla",
     "mod_resources",
+    "file/fluid-foolish.zip",
     "file/shrimps-immersive-interfaces.zip",
     "file/create-sophisticated-backpacks.zip",
     "file/cubic-sun-moon.zip",
