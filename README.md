@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 191 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 192 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (191)
+## Mods (192)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -143,6 +143,7 @@ Modpack de aventura feito por **Lani**.
 | [Placebo](https://modrinth.com/project/tCkE8p2N) | `8.6.3` | Ambos | 2026-10-05 | Lani |
 | [playerAnimator](https://modrinth.com/project/gedNE4y2) | `1.0.2` | Ambos | 2026-10-06 | Lani |
 | [Polymorph](https://modrinth.com/project/tagwiZkJ) | `0.49.11` | Ambos | 2026-10-06 | Lani |
+| [Punchy!](https://modrinth.com/project/8aoMKplv) | `3.1` | Cliente | 2026-11-04 | Lani |
 | [Puzzles Lib](https://modrinth.com/project/QAGBst4M) | `8.1.36` | Ambos | 2026-10-24 | Lani |
 | [Quark](https://modrinth.com/project/qnQsVE2z) | `4.0` | Ambos | 2026-10-06 | Lani |
 | [Ranged Weapon API](https://modrinth.com/project/AqaIIO6D) | `2.3.4` | Ambos | 2026-10-05 | Lani |
@@ -245,6 +246,9 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-04 — Lani
+- ➕ **Adicionado** Punchy! `3.1`
 
 ### 2026-11-04 — Lani
 - 🔄 **Atualizado** [ETF] Entity Texture Features `7.2.6` → `7.2.7`
