@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 195 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 194 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (195)
+## Mods (194)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -79,7 +79,6 @@ Modpack de aventura feito por **Lani**.
 | [EMF Compat: Exposure](https://modrinth.com/project/mHqWFw6Z) | `1.0.0` | Cliente | 2026-10-23 | Lani |
 | [EMF Compat: Not Enough Animations](https://modrinth.com/project/IGCrWfL7) | `1.2.1` | Cliente | 2026-10-24 | Lani |
 | [EMF Compat: Supplementaries](https://modrinth.com/project/z4FSlBqI) | `1.1.1` | Cliente | 2026-10-23 | Lani |
-| [Enchanted Fishing Line](https://modrinth.com/project/FtXZNeim) | `1.0.0` | Cliente | 2026-11-04 | Lani |
 | [Entity Culling](https://modrinth.com/project/NNAgCjsB) | `1.11.3` | Cliente | 2026-10-24 | Lani |
 | [EpheroLib](https://www.curseforge.com/projects/885449) | `1.2.0` | Ambos | 2026-10-05 | Lani |
 | [Equipment Compare](https://modrinth.com/project/CYSUVOdj) | `1.3.7` | Cliente | 2026-10-05 | Lani |
@@ -250,6 +249,9 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-04 — Lani
+- 🔧 **Fix:** removido Enchanted Fishing Line
 
 ### 2026-11-04 — Lani
 - ➕ **Adicionado** Enchanted Fishing Line `1.0.0`

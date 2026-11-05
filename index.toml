@@ -288,11 +288,6 @@ hash = "16f2381e794df6a90f1925032ad6e2e23a39a29de9b7205c2054a31f067ce1c2"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-fishing-line.pw.toml"
-hash = "50adff6f1e4f335c777200f154db53dceb7a1730568689b9e8f14e84fe354fde"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "6cde78abac12b491d29a16033b90b70e8304f4f5f9726d2c80ad776256054a6c"
 metafile = true
