@@ -5,6 +5,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "7b09d830c08d6d3709391624f6377b675c597f8c005f691ce778e4a2b7d0f6f5"
 
 [[files]]
+file = "config/punchy_moves/better_combat.json"
+hash = "70a91d7c1f968e2349c2da42d3231304f60ab0c2a1cad1ca17a7d6aa0847d250"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "f6d354e1e4955098dd2f6e917566ebddd47fcde2101d1f0f0b0ba2b154655971"
 
