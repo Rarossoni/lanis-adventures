@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinematic-interactions.pw.toml"
-hash = "969a4f9f23025f26bcef12db8d9ac942cd3b2710be9a19da5bc4f808bb027db6"
+hash = "5a49508ebe337d4c9a2e96c9bee9367a9890e21cfa5845895691a34368ea7d2d"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "86c9854897808826c8b1dd478cf98e98144e36d865d2e50c6b66ac5d837368dd"
+hash = "e17e6114a5d7ba9b8821239e4e7fa5788dd0794a336a83576883c85f5a474463"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "b09672b7927c89ad4959eadf8b13c3808d4e767aa66117ee56f35f70ba562d8e"
+hash = "adeddeef0e797a4d2ece2cfb405e992edb5e495c2fef3104349a776550b991c0"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/ghost.pw.toml"
-hash = "f2ad38911b75cda96c8d09b40572342f35dade8a96509ab58804f1f508146ea4"
+hash = "039564dd799df7110dc6f83271f4d36d52b5ba94d07e7039cf1b2fd60ce4dae1"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "a6bc0ad82e90e1b04dfcb5bc5be5a285ae40a1c00344b8d3e54c4bfe1aeed5f0"
+hash = "561b47425324508d1e3df7e1632fbb163513390d83919baba4d2a6d863ec7137"
 metafile = true
 
 [[files]]
@@ -454,12 +454,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6f935416f0980bbaa5fcff52d83782469aaec7c318484920d5a195817997c4f3"
+hash = "b38d43feb83d6b23059e2eab0d0fc04378564c538817d1e73339d32e5937bca9"
 metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "d1c5fb78aa1822c99feac51cdf6c28550efdd81e3fee7e0a7ae967b69dce0b54"
+hash = "d3936a59df6e06c3a5857a7de51023b3a824ee9b9d37d00fca809e9f18ce57ec"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
+hash = "063f04581d2526952f35bd3915d111d2002c038b1ecf1b574a2035da0796a925"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a81c50d3302be28a25ef52d29243aae933baea850480b1fafbc7d51a166b9765"
+hash = "75e054a74743fc397cb7b1a0ce16d5456cb895a1f4c188e1278068577aa56739"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3336be9f51750f8d55dc216516c542440f7a207dcfafc0fae8d6f28c90040116"
+hash = "8887c7732b0460439afceee354539258df9f9f054020cae67aaadb923433d99f"
 metafile = true
 
 [[files]]
@@ -764,22 +764,22 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bf501c145cc0470051ef563fec45fbd8727b188bff48a29aec882fa722ef41cf"
+hash = "05c5ebbf01518b99f390154362f404049e19d9306ebee2a564b202129a3519fe"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "520c592c4f99c950ff758346eb8eee9f113be970aae46286f23d9135b5ef9c28"
+hash = "e7b15754c7456a9f91d485b033a30a4dfa72979c41cd86d690fc2d124ba84fa5"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "feb9ead848dc88d31a457fb75938feb3b9fe5d111220cbd1ca22ff004df7346b"
+hash = "1aba0cc41ace2292b116bf5f3ba1ac8585e225695e7fe5d9abe3e8164740300d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0cf30d47ef381649aa845a3a66609be956429cf6da53c5b0e0e4247b6bb7ff64"
+hash = "0cc948b6b3082dddc9029b923e7a6c8cffb6474da42f8d381c9cfb65837f1b2f"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
-hash = "5eb55e858a830cda218d0f19a53546c410745970ca52c9d5d674b57a9337a06e"
+hash = "21e2af11ad1c92f8aa91c74cf8d6898251975dd287b059099c1cf09eab10afbe"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerstradingplus.pw.toml"
-hash = "cbe274b23a70d1ef1bab8d273830dbee440bbc9c15a598275766a734b64e58ac"
+hash = "fb50e9b1f925453bbbaed3fb99eaba22fcd490822da9c9a142e9aa3f1a6c1a67"
 metafile = true
 
 [[files]]
@@ -989,12 +989,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "c73f584a24d7b4a93b4471f065b403208b05ca5fe1602482454e9bb5711dfad5"
+hash = "3b3caefe9170f8161f3c1d529d2698626c587df89515b7977e1a193485421eb7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "789ceb8c118b1fadb26f852d06ad009c4d78e220318abdfc846cb77fc60ab0fc"
+hash = "26c03a0de42ad8f8ffcef79d78a81a01134f90c1b7ae4a37b4fd30995e1bd790"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "0562ddfc6689ff8a0004d2804788e9781870288ffdf1b56dcb042d98d305873f"
+hash = "71183e4f5649910a1369dd11734a6312f2786738cc1083135ca30229cefa3ca1"
 metafile = true
 
 [[files]]

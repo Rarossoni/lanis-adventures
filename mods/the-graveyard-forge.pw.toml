@@ -1,13 +1,13 @@
 name = "The Graveyard (FORGE/NEOFORGE)"
-filename = "graveyard-FORGE-4.0.0+mc1.20.1.jar"
+filename = "graveyard-FORGE-4.0.1+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U1jdQuSf/versions/2mh0cIYX/graveyard-FORGE-4.0.0%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/U1jdQuSf/versions/MSk4YVNp/graveyard-FORGE-4.0.1%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "ca7d3d9f60098760d6c7a18ea470cdcda22dbbab854a1c92cf7e8dfa713e1d48e2e3c6997401f36e08e6ceb0195e927729fb313b71dae5738f7059d25a83ff93"
+hash = "6babd063012e5afeced60635d6c190b5563eb36dae43123ddac8eab83cf06114db9033117bb649e4c8413331fd0e078dd1e77d1e061a4c6d778ec00ad9341d7f"
 
 [update]
 [update.modrinth]
 mod-id = "U1jdQuSf"
-version = "2mh0cIYX"
+version = "MSk4YVNp"
