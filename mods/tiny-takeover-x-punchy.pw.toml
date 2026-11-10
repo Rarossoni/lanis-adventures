@@ -1,13 +1,13 @@
 name = "Punchy! x Tiny Takeover"
-filename = "punchy_puppies-2.0.4-forge-1.20.1.jar"
+filename = "punchy_puppies-2.0.5-forge-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FDqBVN2B/versions/FzFVjKLK/punchy_puppies-2.0.4-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/FDqBVN2B/versions/vY0Mc9Bl/punchy_puppies-2.0.5-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "0f56409e243640c087752a91602a3ad8513c74d0cef933d0b0be406d036e05758483aeed15cc70ceeebebf4ecceb2dcb3143c6f08ca1a47184695ca891e66c48"
+hash = "85e7a59154884664721434152c44df1589647938e91b8a935360459d24ff1e539eb9e88babf8754774ffcd1ecdc8115023bcd56f298e6cb21dcaf663849aa1ab"
 
 [update]
 [update.modrinth]
 mod-id = "FDqBVN2B"
-version = "FzFVjKLK"
+version = "vY0Mc9Bl"

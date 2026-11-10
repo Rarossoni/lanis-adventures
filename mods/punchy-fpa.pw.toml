@@ -1,13 +1,13 @@
 name = "Punchy!"
-filename = "punchy-3.1b-forge-1.20.1.jar"
+filename = "punchy-3.2-forge-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aoMKplv/versions/DdPbuBDy/punchy-3.1b-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/TusD778F/punchy-3.2-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "7a0321070f87f31934904bf29531dcf99456996fb46134b34fdae284ad84a38a6688c9013f0593b924079d9587dd7fd8391e2050446ce345031b8a748569d06f"
+hash = "8a9640121b1c9502ece17c7bb50d2b3194ac01ff7deb3857ad89cbbbe08cf95e8f8037635a97790ac314fa6c675ad5292c89d3c7aa317c33f78cab46f117a425"
 
 [update]
 [update.modrinth]
 mod-id = "8aoMKplv"
-version = "DdPbuBDy"
+version = "TusD778F"

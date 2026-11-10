@@ -14,7 +14,7 @@ hash = "f6d354e1e4955098dd2f6e917566ebddd47fcde2101d1f0f0b0ba2b154655971"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "04bb32fb15c25bf7dc42a02c22866a116bda971aae4a4ae6cf6be70ea07f3a0a"
+hash = "030cd87be9e3e8de2a921c2654093e106068c6fc5d71251a676bcbc81582784e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/companions-mod.pw.toml"
-hash = "5172630d89296e14b1207d1e1823f75f5b1c91517153ffe78059aafc90facca7"
+hash = "de12423576a8c609de62285c9153573ce8f6570bd908086d335a9a61f632cc56"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-emf-compat-skyhook.pw.toml"
-hash = "112967904631ad71edeca722f12ade7581c83e0ae8ade13739e97ed01c1b1c34"
+hash = "f60d976683dc7e04c8415aaaa846e0934e2d7f404254371f8a09b2dae8e25bdd"
 metafile = true
 
 [[files]]
@@ -268,27 +268,27 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-better-combat.pw.toml"
-hash = "e0421ffd2c757f6f8fbbdd170a9a8efe5a7e8fb79cfacef9ff5c52a87e98a29f"
+hash = "ebf8079de92549c2fd339b31e6f8fb0c02e80d9570b705f017c15ddd80df9b22"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-carry-on.pw.toml"
-hash = "768033aa6fa70b3a34c930e33d0b9564e0f5c38b3dfd1de6b4a4a4a1960b2f55"
+hash = "5aa6ccbb12fa41e0b09afa88601f7393c7fd72574147d009571962a034c5f27c"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "ee1ed082d7eeeddd55246eb956c96bfb0d42876e474f387ce25e282a664b2907"
+hash = "2c36af64c3664acb96f18a459ed3b12796f6a86d48c078f400de49e82aa5df05"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-exposure.pw.toml"
-hash = "e82b2b5c51a060df7b218a2167becbed6b64957e9ff4d7efeaa3763f8c2cd78a"
+hash = "5bc082b35d9dfde663061fdde89465c0f17ed958b3adfcd6282b66340ca4f5d6"
 metafile = true
 
 [[files]]
 file = "mods/emf-compat-supplementaries.pw.toml"
-hash = "16f2381e794df6a90f1925032ad6e2e23a39a29de9b7205c2054a31f067ce1c2"
+hash = "fac86da0b1fbb91dafde1b644ebef662cadc3a9874def49e98305eb6b48343a7"
 metafile = true
 
 [[files]]
@@ -328,12 +328,12 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
+hash = "133a8fa53146424351e19d604b1d47a100797a3361b8cb3c2ee8971ee84f63b4"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "335fac750d085620fccab5af912f72e2fc92216a00a3d7f176da697577d1444d"
+hash = "0e842759e20e260be0ffbbb805f4262e6b6936f75ae97b43e5cba480fb516bef"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/ghost.pw.toml"
-hash = "039564dd799df7110dc6f83271f4d36d52b5ba94d07e7039cf1b2fd60ce4dae1"
+hash = "d1ed4654a9dd78f79678619003602ff41eec13aeec11c8604dae98c54937a5c8"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "063f04581d2526952f35bd3915d111d2002c038b1ecf1b574a2035da0796a925"
+hash = "97a0aa0bfbad2bc5ae3e3454033df72c54b0e3ad45b95ecde451804a77a9eb0b"
 metafile = true
 
 [[files]]
@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "75e054a74743fc397cb7b1a0ce16d5456cb895a1f4c188e1278068577aa56739"
+hash = "0b3e34715f20c9f0d6d19aa043c3a53c5d3bc70a977da2fdf1651bf5c9b72fb3"
 metafile = true
 
 [[files]]
@@ -639,16 +639,6 @@ metafile = true
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "a94d2977cef31fe7eaa03e835d93a0e32786018bd0d4581bf44eb5b440ee8ada"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations-emf-compat.pw.toml"
-hash = "f7f4467296526871c2a45cbb96d4d19bf7dca8187fc56afc2637950ad08cb8b1"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "8887c7732b0460439afceee354539258df9f9f054020cae67aaadb923433d99f"
 metafile = true
 
 [[files]]
@@ -703,12 +693,12 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "ed94d498e80a45f90b1aa6ee5a52f87b9277db3a4466cdea4367a3a240a0d595"
+hash = "368fd7ca23308c1ae4bb43c762547a7bef68b60165d0d182fd8540c126f68a24"
 metafile = true
 
 [[files]]
 file = "mods/punchymoves.pw.toml"
-hash = "6ed87af73d4da8cb2669a57dccfdcedc35cbe4ba045316f659db280e0b1e626f"
+hash = "50a562fbe83798d975c5e244cae8de724cc6e5a493c5ad19035db66f01e98e32"
 metafile = true
 
 [[files]]
@@ -783,12 +773,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e7b15754c7456a9f91d485b033a30a4dfa72979c41cd86d690fc2d124ba84fa5"
+hash = "f07915d15440e8d2a67a022ce1c2318751a509a28c0730b480f20a4611faa6fa"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1aba0cc41ace2292b116bf5f3ba1ac8585e225695e7fe5d9abe3e8164740300d"
+hash = "417726315f02a042a6a73f69d2259cbdbae9f05cca90a9b6d8d2ba33ffcbcde9"
 metafile = true
 
 [[files]]
@@ -858,12 +848,12 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-takeover-x-punchy.pw.toml"
-hash = "4799d7f476efd4d9b281ec42bf9a51a61b309e170fbfc8150fb16d78681090fe"
+hash = "1d33a27e201a423b222c727923669ebeecf6a8a696cf2d01679d4dfd5c8af648"
 metafile = true
 
 [[files]]
 file = "mods/touch-and-motion.pw.toml"
-hash = "938c6a67a9f223e12d294cdae5c69a3eaccf0308bed5227d32b92baa78ab767e"
+hash = "c55323f156efd6ed8a3aca0ad369b1704f9365f907dbfb1e42e77c0d757d0b45"
 metafile = true
 
 [[files]]
@@ -994,16 +984,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "c5dc44a0777b62765c850ca6a7bedd92b6ff2cda473133fc8856ff37677ded0d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension+just-expressions.pw.toml"
-hash = "fbec5ba283350b44c9798d2b4eda56836717efe4d7e958218c44e5e62e9fa783"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "69379695887489116f00f4403aacf4309fc493da63113fe783e5bce35a93f8fa"
 metafile = true
 
 [[files]]

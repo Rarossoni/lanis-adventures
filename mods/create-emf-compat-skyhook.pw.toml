@@ -1,13 +1,13 @@
 name = "EMF Compat: Create"
-filename = "emf_compat_create_forge_1.20.1_2.1.0.jar"
+filename = "emf_compat_create_forge_1.20.1_2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9McOdzy/versions/WSlYaEZY/emf_compat_create_forge_1.20.1_2.1.0.jar"
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/fNJmb0mt/emf_compat_create_forge_1.20.1_2.1.1.jar"
 hash-format = "sha512"
-hash = "fdc9d503ffb1de289d89c99f42d170a44ea20ebb4b83444c97dcf1a9d756739d7e77909ab5c2fbfeccce49a43746a2f85a783e56752a680e67b2a3ffae04b4cd"
+hash = "5c3b0080cc4a27e5f7bb00cf00be33d9aeb0dc9d405e0b9eaa9e1b3fee87be644dbacd779c1cd80ceb929d3e232330148b936d2578aa35cea814062275ac4387"
 
 [update]
 [update.modrinth]
 mod-id = "J9McOdzy"
-version = "WSlYaEZY"
+version = "fNJmb0mt"

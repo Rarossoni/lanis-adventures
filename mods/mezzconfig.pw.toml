@@ -1,13 +1,13 @@
 name = "MezzConfig"
-filename = "mezz_config-1.20.1-forge-0.6.10.jar"
+filename = "mezz_config-1.20.1-forge-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/toOvLp8Y/mezz_config-1.20.1-forge-0.6.10.jar"
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/wcPo3ErK/mezz_config-1.20.1-forge-0.7.1.jar"
 hash-format = "sha512"
-hash = "7136f756983da5a067f94e4879a7b2a7cbfa66049561a213963280a5957a119372f8f614908a6a67aaff0966f5668bb31c2727479c71dc3ee67884912d19b1fc"
+hash = "6b66d2e4e497da626deb2ed91db1688918b4f119f88e949467222713f60983e8487d07904178fd2c2fd3a8bfe8f9027903169c428b9eed414dd224f6864e559c"
 
 [update]
 [update.modrinth]
 mod-id = "7tEfOcA7"
-version = "toOvLp8Y"
+version = "wcPo3ErK"
