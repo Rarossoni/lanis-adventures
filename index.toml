@@ -237,6 +237,11 @@ hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
 metafile = true
 
 [[files]]
+file = "mods/diegesis.pw.toml"
+hash = "e19f5cba8c1a8e4b337ff9ec3e452d65f3f8383807eb2d9e5b420333887b4b0c"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
 metafile = true
@@ -384,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
+file = "mods/hands-on-delight.pw.toml"
+hash = "061fe19f459d012e9f8383f788588bfe56e50816f6c91ae151b8ba0ba9ccc230"
 metafile = true
 
 [[files]]
@@ -869,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
 metafile = true
 
 [[files]]

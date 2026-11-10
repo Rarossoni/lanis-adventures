@@ -1,0 +1,13 @@
+name = "Diegesis"
+filename = "diegesis-forge-1.20.1-1.0.0-beta.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91d0c838916e2786854e2923127f67aae8eca617"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9534627
+project-id = 1790227

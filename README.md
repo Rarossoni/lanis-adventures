@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.20.1 | 47.4.26 | 1.0.0 | 192 |
+| 1.20.1 | 47.4.26 | 1.0.0 | 195 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (192)
+## Mods (195)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@ Modpack de aventura feito por **Lani**.
 | [Deep Aether](https://modrinth.com/project/gcHIih5B) | `1.1.7` | Ambos | 2026-10-06 | Lani |
 | [Deeper and Darker](https://modrinth.com/project/fnAffV0n) | `1.3.3` | Ambos | 2026-10-05 | Lani |
 | [Default Options](https://modrinth.com/project/WEg59z5b) | `18.0.5` | Cliente | 2026-10-06 | Lani |
+| [Diegesis](https://www.curseforge.com/projects/1790227) | `1.0.0` | Ambos | 2026-11-09 | Lani |
 | [Do a Barrel Roll](https://modrinth.com/project/6FtRfnLg) | `3.5.6` | Ambos | 2026-10-06 | Lani |
 | [Dungeons and Taverns](https://modrinth.com/project/tpehi7ww) | `3.0.3` | Ambos | 2026-10-04 | Lani |
 | [Easy Anvils](https://modrinth.com/project/OZBR5JT5) | `8.0.2` | Ambos | 2026-10-04 | Lani |
@@ -95,8 +96,10 @@ Modpack de aventura feito por **Lani**.
 | [Geckolib](https://modrinth.com/project/8BmcQJ2H) | `4.8.4` | Ambos | 2026-10-05 | Lani |
 | [Ghosts](https://www.curseforge.com/projects/602665) | `1.4.0` | Ambos | 2026-11-09 | Lani |
 | [Handcrafted](https://modrinth.com/project/pJmCFF0p) | `3.0.6` | Ambos | 2026-10-04 | Lani |
+| [Hands-On Delight](https://www.curseforge.com/projects/1790221) | `1.1.0` | Ambos | 2026-11-09 | Lani |
 | [Heartstone](https://www.curseforge.com/projects/573152) | `1.3.0` | Ambos | 2026-10-05 | Lani |
 | [Hexerei](https://modrinth.com/project/IQSOHVhI) | `0.4.2.3` | Ambos | 2026-10-23 | Lani |
+| [HT's TreeChop](https://modrinth.com/project/gHoB7SHO) | `0.19.0` | Ambos | 2026-11-09 | Lani |
 | [Ice and Fire](https://modrinth.com/project/LVnvHVBp) | `2.1.13` | Ambos | 2026-10-04 | Lani |
 | [Iceberg](https://modrinth.com/project/5faXoLqX) | `1.1.25` | Ambos | 2026-10-05 | Lani |
 | [Illager Invasion](https://modrinth.com/project/jSV9w0J5) | `8.0.7` | Ambos | 2026-10-05 | Lani |
@@ -245,6 +248,11 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-09 — Lani
+- ➕ **Adicionado** Diegesis `1.0.0`
+- ➕ **Adicionado** Hands-On Delight `1.1.0`
+- ➕ **Adicionado** HT's TreeChop `0.19.0`
 
 ### 2026-11-09 — Lani
 - ➖ **Removido** EMF Compat: Not Enough Animations
