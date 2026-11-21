@@ -1045,11 +1045,11 @@ hash = "42ff670fa3bbd53e72d381801d00fa8b29d15f2150bce81f64634067a2864b20"
 
 [[files]]
 file = "resourcepacks/icon-fresh-fix/pack.mcmeta"
-hash = "16d0c26ae7634294a2065d961d318257cd75eafb374a8b7938c96362c9fb114a"
+hash = "9f11f115b7d999b192bca037f0db8d4e621cf243f91ddfb84e3e50b0be12d733"
 
 [[files]]
 file = "resourcepacks/icon-fresh.pw.toml"
-hash = "7e161efebfed42370d1947af262ee0fe27c04a0ca66050f5aed95337ca2549b0"
+hash = "2fc7412a967488d3f1d8dbc2eeb5284e4a9a63a27c1044221ab86062a822a8c5"
 metafile = true
 
 [[files]]

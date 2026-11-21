@@ -233,7 +233,7 @@ Ative em *Opções → Pacotes de recursos*.
 | [Fresh Animations: Extensions](https://modrinth.com/project/YAVTU8mK) | `1.10.1` | Cliente | 2026-11-04 | Lani |
 | [Fresh Animations: Objects](https://modrinth.com/project/23O9JVMV) | `2.1.2` | Cliente | 2026-10-05 | Lani |
 | [Fresh Animations](https://modrinth.com/project/50dA9Sha) | `1.11.2` | Cliente | 2026-11-04 | Lani |
-| [Icon Fresh](https://www.curseforge.com/projects/1159273) | `1.3` | Cliente | 2026-10-05 | Lani |
+| [Icon Fresh](https://www.curseforge.com/projects/1159273) | `1.3` | Ambos | 2026-11-21 | Lani |
 | [Immersive Interfaces](https://modrinth.com/project/3sV1gvyJ) | `—` | Cliente | 2026-10-05 | Lani |
 
 ## Shaders (5)
