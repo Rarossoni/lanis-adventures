@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7b09d830c08d6d3709391624f6377b675c597f8c005f691ce778e4a2b7d0f6f5"
+hash = "15b8891f99eac0e2d03c58b204e833c2dd95d4b5a705b1ba0161eeeefd2d7417"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "2be89dd4f96345cc2eb1ee0fd3a3f70668bfef25436061792a29437e93031836"
+
+[[files]]
+file = "config/iris.properties"
+hash = "39c55b35f3d9980e9f55eb8af0116a94fdde00d20065e6e5bfca0a931495289b"
 
 [[files]]
 file = "config/punchy_moves/better_combat.json"
