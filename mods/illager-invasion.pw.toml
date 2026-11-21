@@ -1,13 +1,13 @@
 name = "Illager Invasion"
-filename = "IllagerInvasion-v8.0.7-1.20.1-Forge.jar"
+filename = "IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/h3xEIiW8/IllagerInvasion-v8.0.7-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/9bEpNrvK/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "add2894b0a5247db10ed9e1fbfd94abd9d54309e91418d4d56da855d6b088ef41f35534d324f7172f66327a1cf111bcec4b3560c31c887f799b559e6190a74e2"
+hash = "5ad618c60d78ab9196ef386c63d5855f3eab2f90006156b786d5b4f4ea7e6bcc1fd9f61dfa45b7b2df44dd900fe9747c9ac1ccac6fdb11814e2f4a7e53d93107"
 
 [update]
 [update.modrinth]
 mod-id = "jSV9w0J5"
-version = "h3xEIiW8"
+version = "9bEpNrvK"

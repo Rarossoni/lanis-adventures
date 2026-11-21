@@ -1,13 +1,13 @@
 name = "HT's TreeChop"
-filename = "TreeChop-1.20.1-forge-0.19.0.jar"
+filename = "TreeChop-1.21.1-neoforge-0.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/rhBPK6sB/TreeChop-1.20.1-forge-0.19.0.jar"
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/iLXWmfax/TreeChop-1.21.1-neoforge-0.19.3.jar"
 hash-format = "sha512"
-hash = "ef5547a56443e1cd086386082447262b868d91f3cc68e3ff94a797b0ada84d86a5b148a94f940e6365e40a8952d776cd81682f02c2d840205c8f8835b090b3f2"
+hash = "f7e2dba5b40d544383048e9cb846977b01eca7f653d6513cf9d2b26abd10ab5d73eefe3956a0759cb342c7ac8af41e61fc338873ca47a8e4899e4407cb44b17d"
 
 [update]
 [update.modrinth]
 mod-id = "gHoB7SHO"
-version = "rhBPK6sB"
+version = "iLXWmfax"

@@ -1,13 +1,13 @@
 name = "Corpse x Cosmetic Armor Reworked Compat"
-filename = "cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar"
+filename = "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VrbUxhCI/versions/IA3cD1DY/cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/VrbUxhCI/versions/NYKopfDt/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar"
 hash-format = "sha512"
-hash = "b2728cdcd1a205346a93641bcf1c0312b2064f10f981cb3408a0839274219a2dae2e5eb345539961537efe14c42020a678ac563d3ff4e579da4c2066a9702480"
+hash = "7d752f911e0d35311a7b3418db527b189ee0bbe5cbf272bbba03418b195481808305db96ed19fe17f6a0a3c296b4e840b1a34fa9f245a13d280f8f8ca9a84804"
 
 [update]
 [update.modrinth]
 mod-id = "VrbUxhCI"
-version = "IA3cD1DY"
+version = "NYKopfDt"

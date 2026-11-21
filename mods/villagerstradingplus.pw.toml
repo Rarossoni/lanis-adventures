@@ -1,13 +1,13 @@
 name = "VillagersTradingPlus"
-filename = "villagertradingplus-forge-mc1.20.1-1.1.1.jar"
+filename = "villagertradingplus-neoforge-mc1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DhOXUfnP/versions/TGuBx5Qt/villagertradingplus-forge-mc1.20.1-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/DhOXUfnP/versions/6KPiLeG9/villagertradingplus-neoforge-mc1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "de211252d8af1a3d8b2b5c064bb5b4597c00f57c5029812f20685c712624aa6b6f74fb76f9102af0b0c9f9857d90657d6da930617a959fa4a67453ad55f7d945"
+hash = "839d4a6a720c82afd2db7c1cf1683f1ddbe8afc3d6df266d0803d1afe7f0b149234ec6dd79d0f789e2fb7ce789b181941be3a8fefe8cc46f656bccb915f78d2b"
 
 [update]
 [update.modrinth]
 mod-id = "DhOXUfnP"
-version = "TGuBx5Qt"
+version = "6KPiLeG9"

@@ -1,0 +1,13 @@
+name = "IceAndFire Community Edition"
+filename = "IceAndFireCE-2.2.1-bugfix-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f6103dedb323db214d0c449baa4fb56ffd3314b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9718410
+project-id = 1040076

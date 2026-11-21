@@ -1,13 +1,13 @@
 name = "EMF Compat: Create"
-filename = "emf_compat_create_forge_1.20.1_2.1.1.jar"
+filename = "emf_compat_create_neoforge_1.21.1_2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9McOdzy/versions/fNJmb0mt/emf_compat_create_forge_1.20.1_2.1.1.jar"
+url = "https://cdn.modrinth.com/data/J9McOdzy/versions/w9CLlrNR/emf_compat_create_neoforge_1.21.1_2.1.1.jar"
 hash-format = "sha512"
-hash = "5c3b0080cc4a27e5f7bb00cf00be33d9aeb0dc9d405e0b9eaa9e1b3fee87be644dbacd779c1cd80ceb929d3e232330148b936d2578aa35cea814062275ac4387"
+hash = "139a19b98d2330d3d96a5e346616d6f5f98f6ac8fba3a58de82d3f7a59729f42a03bfe93591ba31e632b7d064a8f82b3e982c717c3e1e790742c544c3f040da8"
 
 [update]
 [update.modrinth]
 mod-id = "J9McOdzy"
-version = "fNJmb0mt"
+version = "w9CLlrNR"

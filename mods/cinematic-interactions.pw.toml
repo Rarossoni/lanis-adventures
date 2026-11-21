@@ -1,13 +1,13 @@
 name = "Cinematic Interactions"
-filename = "Cinematic Interaction-Forge-1.20.1-0.18.30.jar"
+filename = "Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9fb8423c3963ddd3449c480daae7d81e72632762"
+hash = "6ce24a0d4ebd7bd34e2c41ed5e3bea6d34fe58b6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9345399
+file-id = 9345403
 project-id = 1743441

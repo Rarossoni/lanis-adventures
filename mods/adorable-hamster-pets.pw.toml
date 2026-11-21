@@ -1,13 +1,13 @@
 name = "Adorable Hamster Pets"
-filename = "adorablehamsterpets-3.7.0-1.20.1+forge.jar"
+filename = "adorablehamsterpets-3.7.0-1.21.1+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/4OjOhm78/adorablehamsterpets-3.7.0-1.20.1%2Bforge.jar"
+url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/LyCV3JSL/adorablehamsterpets-3.7.0-1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "e2c35911dd379ae40f84da9d9df650e706651d56ff0e38837678ea351d2824284356609daaf65f40840afa5eb7a0341c47bbbd85129fcb96970d6013ddb4870e"
+hash = "0651244d2aaf4c127ee1818a24910bf6612a33bb3aa078217ee8c695abf2cbc8be118d29ed5e271f8f7ba316f146767b8882800a38713177993444db7df2041a"
 
 [update]
 [update.modrinth]
 mod-id = "LmrhZdK2"
-version = "4OjOhm78"
+version = "LyCV3JSL"

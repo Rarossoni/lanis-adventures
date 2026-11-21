@@ -1,13 +1,13 @@
 name = "Punchy! Moves"
-filename = "punchy-moves-1.0.9-forge-1.20.1.jar"
+filename = "punchy-moves-1.0.9-neoforge-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mzgtK8pY/versions/jwu6hvZS/punchy-moves-1.0.9-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/mzgtK8pY/versions/SYcipAjI/punchy-moves-1.0.9-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "69bf94e57ce870744fc18ddf7515f2ddfbda7fc8b3afb0ae0883c87ba21ab48554f5fd1296f351a16b93778b7fe1357ccb3583bc8d08bc99fcf4899b65d4b442"
+hash = "eb36f9f07ed78756a87b3c42d365c4e1f70dd7dfcb44c158cbbd73193fc9b0225bc385a16f0531d5d9cc40c1b1a11101fa8e2c3aebcc854b79d69b21d5d450ed"
 
 [update]
 [update.modrinth]
 mod-id = "mzgtK8pY"
-version = "jwu6hvZS"
+version = "SYcipAjI"

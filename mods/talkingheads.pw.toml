@@ -1,13 +1,13 @@
 name = "Talking Heads"
-filename = "talking-heads-1.1.4+1.20.1+forge.jar"
+filename = "talking-heads-1.1.4+1.21.1+neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Os35nfkh/versions/ZalItlqz/talking-heads-1.1.4%2B1.20.1%2Bforge.jar"
+url = "https://cdn.modrinth.com/data/Os35nfkh/versions/oneqXTGJ/talking-heads-1.1.4%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "d1b917905c8c62f40232208cf065957f49740d261d3b73efcdaaefce84ecc9c2c0be987928f40e3772e5878456f64d49afad32fdaeb576e161915fe7a0a688fd"
+hash = "5a52697ebeecb9a6ca28b09ce626f35965bcb005122346b03249c15b35172aa4fe85a91032e9a54c3597f051e858cc11d74fb932e27d539da3deb26290ed3b84"
 
 [update]
 [update.modrinth]
 mod-id = "Os35nfkh"
-version = "ZalItlqz"
+version = "oneqXTGJ"

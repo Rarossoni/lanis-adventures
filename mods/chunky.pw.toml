@@ -1,13 +1,13 @@
 name = "Chunky"
-filename = "Chunky-1.3.146.jar"
+filename = "Chunky-NeoForge-1.4.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
 hash-format = "sha512"
-hash = "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
+hash = "2db769dd723f243a21e1881e7c9f825e9c193da6f2bed454b70cb6fa9e51c57f63fdcf017c0657bbd26f7bba30815413e27c74d3c7be0783390a96ee9baa4bf7"
 
 [update]
 [update.modrinth]
 mod-id = "fALzjamp"
-version = "4FTDk9wv"
+version = "LuFhm4eU"

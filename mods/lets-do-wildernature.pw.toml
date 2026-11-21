@@ -1,13 +1,13 @@
 name = "[Let's Do] WilderNature"
-filename = "letsdo-wildernature-forge-1.0.6.jar"
+filename = "letsdo-wildernature-neoforge-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/MOt4yaRr/letsdo-wildernature-forge-1.0.6.jar"
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/CyiRcevd/letsdo-wildernature-neoforge-1.1.4.jar"
 hash-format = "sha512"
-hash = "046baf2c02decb38ddd3158c2a73b5caa3f27f7c6a971be2d7265e3b797e3d4494e7d29a03bc851dce7aae43366505ebca37faed5e193896d4c9bbc607307339"
+hash = "cbb62c9ad4d4155c9397a845b45e11974955315de5c25e6335ebd062c2d471b9a8126887105a4a3f41412053fa274a7655e334ced1934e270d8a82c1d93c212c"
 
 [update]
 [update.modrinth]
 mod-id = "AAiRU4aQ"
-version = "MOt4yaRr"
+version = "CyiRcevd"

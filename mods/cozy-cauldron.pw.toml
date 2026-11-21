@@ -1,0 +1,13 @@
+name = "Cozy Cauldron"
+filename = "cozycauldron-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d34d3f04cb527e7a507828d90a6da9e36e6564e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8700726
+project-id = 1637859

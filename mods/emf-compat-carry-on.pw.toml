@@ -1,13 +1,13 @@
 name = "EMF Compat: Carry On"
-filename = "emf_compat_carry_on_forge_1.20.1_2.2.0.jar"
+filename = "emf_compat_carry_on_neoforge_1.21.1_2.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BPD5ZhBo/versions/w28c5FJ2/emf_compat_carry_on_forge_1.20.1_2.2.0.jar"
+url = "https://cdn.modrinth.com/data/BPD5ZhBo/versions/rWi4iYwg/emf_compat_carry_on_neoforge_1.21.1_2.2.0.jar"
 hash-format = "sha512"
-hash = "a59d41eff0dc597a8dd9d72ca9e52b1eb452296296743df24d3d45727739bab8f9e04e6659ba8c6a6c128180cf36611e1b9a070088bc56754ec91bd9a5e8f8c9"
+hash = "5a1d21eb360a2cc4caffc099b0f0011738b3692c5888d281c329afbeb565fcce42605204b16398221cc8b250542cd7bbd73829ef325c46ed757b7fa339961eec"
 
 [update]
 [update.modrinth]
 mod-id = "BPD5ZhBo"
-version = "w28c5FJ2"
+version = "rWi4iYwg"
