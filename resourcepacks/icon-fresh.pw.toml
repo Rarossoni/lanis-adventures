@@ -4,9 +4,9 @@ filename = "icon-fresh.zip"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/7010/283/Icon%20Fresh%201.3.zip"
 hash-format = "sha1"
 hash = "70d6fb1e53a353b0047528f452a59d3d5d77091c"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

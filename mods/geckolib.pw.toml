@@ -3,9 +3,9 @@ filename = "geckolib-neoforge-1.21.1-4.9.3.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/8893/490/geckolib-neoforge-1.21.1-4.9.3.jar"
 hash-format = "sha1"
 hash = "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

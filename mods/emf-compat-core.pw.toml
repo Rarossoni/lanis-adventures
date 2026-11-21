@@ -3,9 +3,9 @@ filename = "emf_compat_core_neoforge_1.21.1_2.4.0.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/9524/632/emf_compat_core_neoforge_1.21.1_2.4.0.jar"
 hash-format = "sha1"
 hash = "7aa9e6e1e36e4af8666ffe7141fac8e9c6c8e193"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

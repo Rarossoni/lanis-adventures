@@ -3,9 +3,9 @@ filename = "Cinematic Interaction-NeoForge-1.21.1-0.18.30.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/9345/403/Cinematic%20Interaction-NeoForge-1.21.1-0.18.30.jar"
 hash-format = "sha1"
 hash = "6ce24a0d4ebd7bd34e2c41ed5e3bea6d34fe58b6"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

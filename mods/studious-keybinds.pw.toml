@@ -3,9 +3,9 @@ filename = "studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/9106/885/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
 hash-format = "sha1"
 hash = "774dae2a81ba825edd5decde37f466b052aeeb5e"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,9 +3,9 @@ filename = "cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
 hash-format = "sha1"
 hash = "5f1e699cd0888b857ec63f01adaeb3571848bfea"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

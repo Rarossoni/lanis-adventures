@@ -3,9 +3,9 @@ filename = "nenus_pop_plushies-2.11.2-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/9575/334/nenus_pop_plushies-2.11.2-neoforge-1.21.1.jar"
 hash-format = "sha1"
 hash = "8f4d111378409bed9b93f5dd33c7df499d3d90b5"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,9 +3,9 @@ filename = "touch_n_motion_neoforge_1.21.1_1.0.5.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/9524/859/touch_n_motion_neoforge_1.21.1_1.0.5.jar"
 hash-format = "sha1"
 hash = "888c6175492105f4df7be86ad5bc0fb65332064e"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

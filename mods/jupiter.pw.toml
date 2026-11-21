@@ -3,9 +3,9 @@ filename = "jupiter-2.3.7-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/7738/312/jupiter-2.3.7-1.21.1-neoforge.jar"
 hash-format = "sha1"
 hash = "569fb484ea5c8e8d690945ad4cd132131a719751"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

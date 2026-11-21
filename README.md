@@ -48,7 +48,7 @@ Modpack de aventura feito por **Lani**.
 | [Chat Animation [Smooth Chat]](https://modrinth.com/project/DnNYdJsx) | `1.3.5` | Cliente | 2026-11-20 | Lani |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ) | `0.15.7` | Cliente | 2026-11-20 | Lani |
 | [Chunky](https://modrinth.com/project/fALzjamp) | `1.4.23` | Ambos | 2026-11-20 | Lani |
-| [Cinematic Interactions](https://www.curseforge.com/projects/1743441) | `0.18.30` | Ambos | 2026-11-20 | Lani |
+| [Cinematic Interactions](https://www.curseforge.com/projects/1743441) | `0.18.30` | Ambos | 2026-11-21 | Lani |
 | [Citadel](https://modrinth.com/project/jJfV67b1) | `2.7.1` | Ambos | 2026-11-20 | Lani |
 | [Cloth Config API](https://modrinth.com/project/9s6osm5g) | `15.0.140` | Ambos | 2026-11-20 | Lani |
 | [Clumps](https://modrinth.com/project/Wnxd13zP) | `19.0.0.1` | Ambos | 2026-11-20 | Lani |
@@ -58,8 +58,8 @@ Modpack de aventura feito por **Lani**.
 | [Controlling](https://modrinth.com/project/xv94TkTM) | `19.0.5` | Cliente | 2026-11-20 | Lani |
 | [Corpse x Cosmetic Armor Reworked Compat](https://modrinth.com/project/VrbUxhCI) | `1.0.0` | Ambos | 2026-11-20 | Lani |
 | [Corpse](https://modrinth.com/project/WrpuIfhw) | `1.1.22` | Ambos | 2026-11-20 | Lani |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) | `—` | Ambos | 2026-11-20 | Lani |
-| [Cozy Cauldron](https://www.curseforge.com/projects/1637859) | `1.0.5` | Ambos | 2026-11-20 | Lani |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) | `—` | Ambos | 2026-11-21 | Lani |
+| [Cozy Cauldron](https://www.curseforge.com/projects/1637859) | `1.0.5` | Ambos | 2026-11-21 | Lani |
 | [Create Deco](https://modrinth.com/project/sMvUb4Rb) | `2.1.3` | Ambos | 2026-11-20 | Lani |
 | [Create](https://modrinth.com/project/LNytGWDc) | `6.0.10` | Ambos | 2026-11-20 | Lani |
 | [Cristel Lib](https://modrinth.com/project/cl223EMc) | `3.1.7` | Ambos | 2026-11-20 | Lani |
@@ -76,7 +76,7 @@ Modpack de aventura feito por **Lani**.
 | [Elytra Slot](https://modrinth.com/project/mSQF1NpT) | `9.0.2` | Ambos | 2026-11-20 | Lani |
 | [EMF Compat: Better Combat](https://modrinth.com/project/Smytm33T) | `2.1.2` | Cliente | 2026-11-20 | Lani |
 | [EMF Compat: Carry On](https://modrinth.com/project/BPD5ZhBo) | `2.2.0` | Cliente | 2026-11-20 | Lani |
-| [EMF Compat: Core](https://www.curseforge.com/projects/1605113) | `2.4.0` | Ambos | 2026-11-20 | Lani |
+| [EMF Compat: Core](https://www.curseforge.com/projects/1605113) | `2.4.0` | Ambos | 2026-11-21 | Lani |
 | [EMF Compat: Create](https://modrinth.com/project/J9McOdzy) | `2.1.1` | Cliente | 2026-11-20 | Lani |
 | [EMF Compat: Exposure](https://modrinth.com/project/mHqWFw6Z) | `1.0.1` | Cliente | 2026-11-20 | Lani |
 | [EMF Compat: Supplementaries](https://modrinth.com/project/z4FSlBqI) | `1.1.2` | Cliente | 2026-11-20 | Lani |
@@ -93,14 +93,14 @@ Modpack de aventura feito por **Lani**.
 | [Fragmentum](https://modrinth.com/project/49C5QgTK) | `5.4.0` | Ambos | 2026-11-20 | Lani |
 | [Friends&Foes (Forge/NeoForge)](https://modrinth.com/project/BOCJKD49) | `5.0.5` | Ambos | 2026-11-20 | Lani |
 | [Fzzy Config](https://modrinth.com/project/hYykXjDp) | `0.7.7` | Ambos | 2026-11-20 | Lani |
-| [GeckoLib](https://www.curseforge.com/projects/388172) | `4.9.3` | Ambos | 2026-11-20 | Lani |
-| [Ghosts](https://www.curseforge.com/projects/602665) | `1.4.0` | Ambos | 2026-11-20 | Lani |
+| [GeckoLib](https://www.curseforge.com/projects/388172) | `4.9.3` | Ambos | 2026-11-21 | Lani |
+| [Ghosts](https://www.curseforge.com/projects/602665) | `1.4.0` | Ambos | 2026-11-21 | Lani |
 | [Handcrafted](https://modrinth.com/project/pJmCFF0p) | `4.0.3` | Ambos | 2026-11-20 | Lani |
 | [Hands-On Delight](https://modrinth.com/project/akw8BJFr) | `1.6.1` | Ambos | 2026-11-20 | Lani |
 | [Heartstone](https://modrinth.com/project/NBY6AFje) | `1.4.2` | Ambos | 2026-11-20 | Lani |
 | [Hexerei](https://modrinth.com/project/IQSOHVhI) | `0.5.0.3` | Ambos | 2026-11-20 | Lani |
 | [HT's TreeChop](https://modrinth.com/project/gHoB7SHO) | `0.19.3` | Ambos | 2026-11-20 | Lani |
-| [IceAndFire Community Edition](https://www.curseforge.com/projects/1040076) | `2.2.1` | Ambos | 2026-11-20 | Lani |
+| [IceAndFire Community Edition](https://www.curseforge.com/projects/1040076) | `2.2.1` | Ambos | 2026-11-21 | Lani |
 | [Iceberg](https://modrinth.com/project/5faXoLqX) | `1.3.2` | Ambos | 2026-11-20 | Lani |
 | [Illager Invasion](https://modrinth.com/project/jSV9w0J5) | `21.1.6` | Ambos | 2026-11-20 | Lani |
 | [Immersive UI](https://modrinth.com/project/9wv7LuMc) | `0.3.3` | Cliente | 2026-11-20 | Lani |
@@ -111,7 +111,7 @@ Modpack de aventura feito por **Lani**.
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/project/s4OWxYQQ) | `3.16.4` | Ambos | 2026-11-20 | Lani |
 | [Item Highlighter](https://modrinth.com/project/cVNW5lr6) | `1.1.11` | Cliente | 2026-11-20 | Lani |
 | [Jade ðŸ”](https://modrinth.com/project/nvQzSEkH) | `15.10.6` | Ambos | 2026-11-20 | Lani |
-| [Jupiter](https://www.curseforge.com/projects/1072905) | `2.3.7` | Ambos | 2026-11-20 | Lani |
+| [Jupiter](https://www.curseforge.com/projects/1072905) | `2.3.7` | Ambos | 2026-11-21 | Lani |
 | [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ) | `19.64.0.455` | Ambos | 2026-11-20 | Lani |
 | [Just Zoom](https://modrinth.com/project/iAiqcykM) | `3.1.0` | Cliente | 2026-11-20 | Lani |
 | [Knight Lib](https://modrinth.com/project/hAnl9nbm) | `2.0.5` | Ambos | 2026-11-20 | Lani |
@@ -132,7 +132,7 @@ Modpack de aventura feito por **Lani**.
 | [Mowzie's Mobs](https://modrinth.com/project/BFbX9xcm) | `1.8.2` | Ambos | 2026-11-20 | Lani |
 | [MVS - Moog's Voyager Structures](https://modrinth.com/project/OQAgZMH1) | `5.1.3` | Ambos | 2026-11-20 | Lani |
 | [Nature's Compass](https://modrinth.com/project/fPetb5Kh) | `3.4.0` | Ambos | 2026-11-20 | Lani |
-| [Nenu's Pop Plushies](https://www.curseforge.com/projects/1426170) | `2.11.2` | Ambos | 2026-11-20 | Lani |
+| [Nenu's Pop Plushies](https://www.curseforge.com/projects/1426170) | `2.11.2` | Ambos | 2026-11-21 | Lani |
 | [Nether Depths Upgrade](https://modrinth.com/project/vI1QKJro) | `3.3` | Ambos | 2026-11-20 | Lani |
 | [Nullscape](https://modrinth.com/project/LPjGiSO4) | `1.2.14` | Ambos | 2026-11-20 | Lani |
 | [Overflowing Bars](https://modrinth.com/project/XD7XOrAF) | `21.1.1` | Cliente | 2026-11-20 | Lani |
@@ -168,7 +168,7 @@ Modpack de aventura feito por **Lani**.
 | [spark](https://modrinth.com/project/l6YH9Als) | `1.10.124` | Ambos | 2026-11-20 | Lani |
 | [Structory: Towers](https://modrinth.com/project/j3FONRYr) | `26.2` | Ambos | 2026-11-20 | Lani |
 | [Structory](https://modrinth.com/project/aKCwCJlY) | `26.2` | Ambos | 2026-11-20 | Lani |
-| [Studious Keybinds](https://www.curseforge.com/projects/1731572) | `1.0.8` | Ambos | 2026-11-20 | Lani |
+| [Studious Keybinds](https://www.curseforge.com/projects/1731572) | `1.0.8` | Ambos | 2026-11-21 | Lani |
 | [Supplementaries Squared](https://modrinth.com/project/dCCkNFwE) | `1.2.18` | Ambos | 2026-11-20 | Lani |
 | [Supplementaries](https://modrinth.com/project/fFEIiSDQ) | `4.1.4` | Ambos | 2026-11-20 | Lani |
 | [Talking Heads](https://modrinth.com/project/Os35nfkh) | `1.1.4` | Cliente | 2026-11-20 | Lani |
@@ -177,12 +177,12 @@ Modpack de aventura feito por **Lani**.
 | [Terralith](https://modrinth.com/project/8oi3bsk5) | `2.6.2` | Ambos | 2026-11-20 | Lani |
 | [The Aether](https://modrinth.com/project/YhmgMVyu) | `1.5.10` | Ambos | 2026-11-20 | Lani |
 | [The Graveyard (Fabric/Neoforge)](https://modrinth.com/project/QivVPB8W) | `4.0.1` | Ambos | 2026-11-20 | Lani |
-| [The Twilight Forest](https://www.curseforge.com/projects/227639) | `4.8.3345` | Ambos | 2026-11-20 | Lani |
-| [Touch'n Motion](https://www.curseforge.com/projects/1734204) | `1.0.5` | Ambos | 2026-11-20 | Lani |
+| [The Twilight Forest](https://www.curseforge.com/projects/227639) | `4.8.3345` | Ambos | 2026-11-21 | Lani |
+| [Touch'n Motion](https://www.curseforge.com/projects/1734204) | `1.0.5` | Ambos | 2026-11-21 | Lani |
 | [Towns and Towers](https://modrinth.com/project/DjLobEOy) | `1.13.11` | Ambos | 2026-11-20 | Lani |
 | [Trade Cycling](https://modrinth.com/project/qpPoAL6m) | `1.0.23` | Ambos | 2026-11-20 | Lani |
 | [Traveler's Titles](https://modrinth.com/project/JtifUr64) | `5.1.3` | Cliente | 2026-11-20 | Lani |
-| [Uranus](https://www.curseforge.com/projects/1010827) | `3.0` | Ambos | 2026-11-20 | Lani |
+| [Uranus](https://www.curseforge.com/projects/1010827) | `3.0` | Ambos | 2026-11-21 | Lani |
 | [VillagersTradingPlus](https://modrinth.com/project/DhOXUfnP) | `1.1.1` | Ambos | 2026-11-20 | Lani |
 | [Waystones Teleport Pets](https://modrinth.com/project/VaCl9OtG) | `1.2` | Ambos | 2026-11-20 | Lani |
 | [Waystones](https://modrinth.com/project/LOpKHB2A) | `21.1.47` | Ambos | 2026-11-20 | Lani |
@@ -204,7 +204,7 @@ Modpack de aventura feito por **Lani**.
 | [YUNG's Bridges](https://modrinth.com/project/Ht4BfYp6) | `5.1.1` | Ambos | 2026-11-20 | Lani |
 | [YUNG's Extras](https://modrinth.com/project/ZYgyPyfq) | `5.1.1` | Ambos | 2026-11-20 | Lani |
 | [Zeta](https://modrinth.com/project/MVARlG2f) | `1.1` | Ambos | 2026-11-20 | Lani |
-| [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/projects/844662) | `3.3.12` | Ambos | 2026-11-20 | Lani |
+| [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/projects/844662) | `3.3.12` | Ambos | 2026-11-21 | Lani |
 | [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1) | `7.2.7` | Cliente | 2026-11-20 | Lani |
 | [[Let's Do] Bakery - Farm&Charm Compat](https://modrinth.com/project/oNB5jhlA) | `2.1.11` | Ambos | 2026-11-20 | Lani |
 | [[Let's Do] Beachparty](https://modrinth.com/project/GyKzAh3l) | `2.1.5` | Ambos | 2026-11-20 | Lani |
