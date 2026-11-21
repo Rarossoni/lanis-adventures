@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.21.1 |  | 1.0.0 | 196 |
+| 1.21.1 |  | 1.0.0 | 202 |
 
 ## Como jogar
 
@@ -19,13 +19,14 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (196)
+## Mods (202)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
 | [ Integrated Dungeons and Structures](https://modrinth.com/project/Z8OZShAU) | `1.13.7` | Ambos | 2026-11-20 | Lani |
 | [3D Skin Layers](https://modrinth.com/project/zV5r3pPn) | `1.11.4` | Cliente | 2026-11-20 | Lani |
 | [Absolute Order: Custom Chest Auto-Sorter](https://modrinth.com/project/tGfovP6L) | `2.0.0` | Cliente | 2026-11-20 | Lani |
+| [Accessories](https://modrinth.com/project/jtmvUHXj) | `1.1.0` | Ambos | 2026-11-21 | Lani |
 | [Adorable Hamster Pets](https://modrinth.com/project/LmrhZdK2) | `3.7.0` | Ambos | 2026-11-20 | Lani |
 | [Alex's Caves Continued](https://modrinth.com/project/cO2CvXug) | `1.1.3` | Ambos | 2026-11-20 | Lani |
 | [Alex's Mobs Continued](https://modrinth.com/project/kYIaHHfw) | `2.3.0` | Ambos | 2026-11-20 | Lani |
@@ -41,6 +42,7 @@ Modpack de aventura feito por **Lani**.
 | [Better Advancements](https://modrinth.com/project/Q2OqKxDG) | `0.4.3.21` | Cliente | 2026-11-20 | Lani |
 | [Better Combat](https://modrinth.com/project/5sy6g3kz) | `2.4.0` | Ambos | 2026-11-20 | Lani |
 | [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/ZvaHbwoZ) | `1.1` | Cliente | 2026-11-20 | Lani |
+| [Bookshelf](https://modrinth.com/project/uy4Cnpcm) | `21.1.81` | Ambos | 2026-11-21 | Lani |
 | [Bosses of Mass Destruction Forge](https://modrinth.com/project/hFUzfDsn) | `1.3.3` | Ambos | 2026-11-20 | Lani |
 | [Caelus API](https://modrinth.com/project/40FYwb4z) | `7.0.1` | Ambos | 2026-11-20 | Lani |
 | [Carry On](https://modrinth.com/project/joEfVgkn) | `2.2.6.13` | Ambos | 2026-11-20 | Lani |
@@ -90,6 +92,7 @@ Modpack de aventura feito por **Lani**.
 | [Farmer's Delight](https://modrinth.com/project/R2OftAxM) | `1.3.4` | Ambos | 2026-11-20 | Lani |
 | [FastSuite](https://modrinth.com/project/roccmqou) | `6.0.7` | Ambos | 2026-11-20 | Lani |
 | [FerriteCore](https://modrinth.com/project/uXXizFIs) | `7.0.3` | Ambos | 2026-11-20 | Lani |
+| [Forgified Fabric API](https://modrinth.com/project/Aqlf1Shp) | `0.116.15` | Ambos | 2026-11-21 | Lani |
 | [Fragmentum](https://modrinth.com/project/49C5QgTK) | `5.4.0` | Ambos | 2026-11-20 | Lani |
 | [Friends&Foes (Forge/NeoForge)](https://modrinth.com/project/BOCJKD49) | `5.0.5` | Ambos | 2026-11-20 | Lani |
 | [Fzzy Config](https://modrinth.com/project/hYykXjDp) | `0.7.7` | Ambos | 2026-11-20 | Lani |
@@ -119,6 +122,7 @@ Modpack de aventura feito por **Lani**.
 | [Kotlin for Forge](https://modrinth.com/project/ordsPcFz) | `5.13.0` | Ambos | 2026-11-20 | Lani |
 | [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) | `21.1.1` | Ambos | 2026-11-20 | Lani |
 | [Lionfish-API](https://modrinth.com/project/FoVacERa) | `3.1` | Ambos | 2026-11-20 | Lani |
+| [Lithostitched](https://modrinth.com/project/XaDC71GB) | `1.8.1` | Ambos | 2026-11-21 | Lani |
 | [Lootr](https://modrinth.com/project/EltpO5cN) | `1.11.38.127` | Ambos | 2026-11-20 | Lani |
 | [L_Ender's Cataclysm](https://modrinth.com/project/46KJle7n) | `3.33` | Ambos | 2026-11-20 | Lani |
 | [Macaw's Roofs](https://modrinth.com/project/B8jaH3P1) | `2.3.2` | Ambos | 2026-11-20 | Lani |
@@ -136,6 +140,7 @@ Modpack de aventura feito por **Lani**.
 | [Nether Depths Upgrade](https://modrinth.com/project/vI1QKJro) | `3.3` | Ambos | 2026-11-20 | Lani |
 | [Nullscape](https://modrinth.com/project/LPjGiSO4) | `1.2.14` | Ambos | 2026-11-20 | Lani |
 | [Overflowing Bars](https://modrinth.com/project/XD7XOrAF) | `21.1.1` | Cliente | 2026-11-20 | Lani |
+| [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs) | `0.12.15.6` | Ambos | 2026-11-21 | Lani |
 | [Paragliders](https://modrinth.com/project/esqWA0aQ) | `21.1.5` | Ambos | 2026-11-20 | Lani |
 | [Patchouli](https://modrinth.com/project/nU0bVIaL) | `—` | Ambos | 2026-11-20 | Lani |
 | [Pick Up Notifier](https://modrinth.com/project/ZX66K16c) | `21.1.1` | Ambos | 2026-11-20 | Lani |
@@ -143,6 +148,7 @@ Modpack de aventura feito por **Lani**.
 | [Placebo](https://modrinth.com/project/tCkE8p2N) | `9.9.4` | Ambos | 2026-11-20 | Lani |
 | [playerAnimator](https://modrinth.com/project/gedNE4y2) | `2.0.4` | Ambos | 2026-11-20 | Lani |
 | [Polymorph](https://modrinth.com/project/tagwiZkJ) | `1.1.0` | Ambos | 2026-11-20 | Lani |
+| [Prickle](https://modrinth.com/project/aaRl8GiW) | `21.1.11` | Ambos | 2026-11-21 | Lani |
 | [Punchy! Moves](https://modrinth.com/project/mzgtK8pY) | `1.0.9` | Cliente | 2026-11-20 | Lani |
 | [Punchy! x Tiny Takeover](https://modrinth.com/project/FDqBVN2B) | `2.0.5` | Cliente | 2026-11-20 | Lani |
 | [Punchy!](https://modrinth.com/project/8aoMKplv) | `3.2` | Cliente | 2026-11-20 | Lani |
@@ -166,7 +172,7 @@ Modpack de aventura feito por **Lani**.
 | [Sophisticated Core](https://modrinth.com/project/nmoqTijg) | `1.5.39.2489` | Ambos | 2026-11-20 | Lani |
 | [Sophisticated Storage](https://modrinth.com/project/hMlaZH8f) | `1.6.20.2239` | Ambos | 2026-11-20 | Lani |
 | [spark](https://modrinth.com/project/l6YH9Als) | `1.10.124` | Ambos | 2026-11-20 | Lani |
-| [Structory: Towers](https://modrinth.com/project/j3FONRYr) | `26.2` | Ambos | 2026-11-20 | Lani |
+| [Structory: Towers](https://modrinth.com/project/j3FONRYr) | `1.0.15` | Ambos | 2026-11-21 | Lani |
 | [Structory](https://modrinth.com/project/aKCwCJlY) | `26.2` | Ambos | 2026-11-20 | Lani |
 | [Studious Keybinds](https://www.curseforge.com/projects/1731572) | `1.0.8` | Ambos | 2026-11-21 | Lani |
 | [Supplementaries Squared](https://modrinth.com/project/dCCkNFwE) | `1.2.18` | Ambos | 2026-11-20 | Lani |
@@ -249,6 +255,15 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-21 — Lani
+- 🔧 **Fix:** adicionado Accessories `1.1.0`
+- 🔧 **Fix:** adicionado Bookshelf `21.1.81`
+- 🔧 **Fix:** adicionado Forgified Fabric API `0.116.15`
+- 🔧 **Fix:** adicionado Lithostitched `1.8.1`
+- 🔧 **Fix:** adicionado oωo (owo-lib) `0.12.15.6`
+- 🔧 **Fix:** adicionado Prickle `21.1.11`
+- 🔧 **Fix:** atualizado Structory: Towers `26.2` → `1.0.15`
 
 ### 2026-11-20 — Lani
 - ➕ **Adicionado** Alex's Caves Continued `1.1.3`
