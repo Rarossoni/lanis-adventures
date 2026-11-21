@@ -1,13 +1,13 @@
 name = "Iron's Lib"
-filename = "irons_lib-1.20.1-2.3.0.jar"
+filename = "irons_lib-1.20.1-2.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/IptroA3L/irons_lib-1.20.1-2.3.0.jar"
+url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/GxKHQobH/irons_lib-1.20.1-2.4.0.jar"
 hash-format = "sha512"
-hash = "a2bc8ff3b5738f5a3e4cc281d605442b48216d660264fcd6eb4877fe800b709e65bf37985875e8f1980a284cefec1517c639a3563715ffa73159d29075a290bb"
+hash = "583d8354257e39583124b6150c6b0f0109267bcbfbdbe046451157bc5066515d0e691f8c4a5776034569275dd878ad1f6e94a1f50d00037d34ae6a977265242c"
 
 [update]
 [update.modrinth]
 mod-id = "9nfaJPtX"
-version = "IptroA3L"
+version = "GxKHQobH"
