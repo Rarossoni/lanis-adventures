@@ -1,0 +1,13 @@
+name = "Show the Lyrics"
+filename = "showthelyrics-2.1.4-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9676/326/showthelyrics-2.1.4-1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "5385e33c909317ce1772a01ea9a146c0ae14c1dc"
+
+[update]
+[update.curseforge]
+file-id = 9676326
+project-id = 1707626

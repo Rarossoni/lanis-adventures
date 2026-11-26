@@ -465,6 +465,11 @@ hash = "2006d93b750930a88d26709981818a3b8b14dfa3b0e8d0f05d0532d3475ee80b"
 metafile = true
 
 [[files]]
+file = "mods/inventorio.pw.toml"
+hash = "2b2538384685dd04fd0c8fa115539daf401f95ebc4f4399224ac86316789527f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -790,6 +795,11 @@ hash = "919deaa10fc414f61ffe85af18100cbd169e1535b6a822eddb18ed19b5cbacf2"
 metafile = true
 
 [[files]]
+file = "mods/show-the-lyrics.pw.toml"
+hash = "0c4c8d1e25c52ca0d68796e64ce7a960f703abcb4663c9c20633449de0159318"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
@@ -967,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yarrp.pw.toml"
+hash = "685fc043fadd67579702e8435bcdd88850eaf71624ff86643c13a83bbe28381b"
 metafile = true
 
 [[files]]

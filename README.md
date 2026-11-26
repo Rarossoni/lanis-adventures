@@ -4,7 +4,7 @@ Modpack de aventura feito por **Lani**.
 
 | Minecraft | Forge | Versão do pack | Mods |
 |---|---|---|---|
-| 1.21.1 |  | 1.0.0 | 202 |
+| 1.21.1 |  | 1.0.0 | 205 |
 
 ## Como jogar
 
@@ -19,7 +19,7 @@ Modpack de aventura feito por **Lani**.
 
 > **Lado:** *Cliente* = só no seu PC (visual/desempenho) · *Servidor* = só no servidor · *Ambos* = nos dois.
 
-## Mods (202)
+## Mods (205)
 
 | Mod | Versão | Lado | Última atualização | Por |
 |---|---|---|---|---|
@@ -109,6 +109,7 @@ Modpack de aventura feito por **Lani**.
 | [Immersive UI](https://modrinth.com/project/9wv7LuMc) | `0.3.3` | Cliente | 2026-11-20 | Lani |
 | [Incendium Legacy](https://modrinth.com/project/ZVzW5oNS) | `5.4.4` | Ambos | 2026-11-20 | Lani |
 | [Integrated API](https://modrinth.com/project/V6fKbpBN) | `1.9.2` | Ambos | 2026-11-20 | Lani |
+| [Inventorio](https://modrinth.com/project/LcafSQPm) | `1.11.0` | Ambos | 2026-11-26 | Lani |
 | [Iris Shaders](https://modrinth.com/project/YL57xq9U) | `1.8.14` | Cliente | 2026-11-20 | Lani |
 | [Iron's Lib](https://modrinth.com/project/9nfaJPtX) | `2.4.0` | Ambos | 2026-11-20 | Lani |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/project/s4OWxYQQ) | `3.16.4` | Ambos | 2026-11-20 | Lani |
@@ -162,6 +163,7 @@ Modpack de aventura feito por **Lani**.
 | [Ribbits](https://modrinth.com/project/8YcE8y4T) | `4.1.6` | Ambos | 2026-11-20 | Lani |
 | [Searchables](https://modrinth.com/project/fuuu3xnx) | `1.0.2` | Cliente | 2026-11-20 | Lani |
 | [ShatterLib | OctoLib](https://modrinth.com/project/RH2KUdKJ) | `0.6.3.2` | Ambos | 2026-11-20 | Lani |
+| [Show the Lyrics](https://www.curseforge.com/projects/1707626) | `2.1.4` | Ambos | 2026-11-26 | Lani |
 | [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq) | `5.1.9` | Ambos | 2026-11-20 | Lani |
 | [Simple Backups](https://modrinth.com/project/fzSKSXVK) | `4.0.21` | Ambos | 2026-11-20 | Lani |
 | [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1) | `2.6.22` | Ambos | 2026-11-20 | Lani |
@@ -196,6 +198,7 @@ Modpack de aventura feito por **Lani**.
 | [Xaero's Minimap & World Map - Waystones Compatibility](https://modrinth.com/project/7mLhyqIY) | `2.1.0` | Ambos | 2026-11-20 | Lani |
 | [Xaero's Minimap](https://modrinth.com/project/1bokaNcj) | `26.6.0` | Ambos | 2026-11-20 | Lani |
 | [Xaero's World Map](https://modrinth.com/project/NcUtCpym) | `1.47.0` | Ambos | 2026-11-20 | Lani |
+| [YARRP](https://modrinth.com/project/Z2RtCqwR) | `0.2.0` | Ambos | 2026-11-26 | Lani |
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR) | `3.8.2` | Ambos | 2026-11-20 | Lani |
 | [YUNG's API](https://modrinth.com/project/Ua7DFN59) | `5.1.9` | Ambos | 2026-11-20 | Lani |
 | [YUNG's Better Desert Temples](https://modrinth.com/project/XNlO7sBv) | `4.1.5` | Ambos | 2026-11-20 | Lani |
@@ -255,6 +258,11 @@ Ative em *Opções → Vídeo → Pacotes de shaders*. Para PC fraco, use o **Ma
 | [Photon Shaders](https://modrinth.com/project/lLqFfGNs) | `1.4` | Cliente | 2026-10-24 | Lani |
 
 ## Histórico de mudanças
+
+### 2026-11-26 — Lani
+- ➕ **Adicionado** Inventorio `1.11.0`
+- ➕ **Adicionado** Show the Lyrics `2.1.4`
+- ➕ **Adicionado** YARRP `0.2.0`
 
 ### 2026-11-21 — Lani
 - 🔧 **Fix:** adicionado Accessories `1.1.0`
