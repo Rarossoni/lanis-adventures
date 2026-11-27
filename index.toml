@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "15b8891f99eac0e2d03c58b204e833c2dd95d4b5a705b1ba0161eeeefd2d7417"
+hash = "7e89e1feb0c9d974ee88c104c7844721b76b62bae697888e7337360a312f8266"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2be89dd4f96345cc2eb1ee0fd3a3f70668bfef25436061792a29437e93031836"
+hash = "f442de9e0aed69aa3e24734426bd1194ee49c2cda81d27a6fdc3a80bfdca7413"
 
 [[files]]
 file = "config/iris.properties"
